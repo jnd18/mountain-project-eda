@@ -1,0 +1,922 @@
+Route,Location,URL,"Avg Stars","Your Stars","Route Type",Rating,Pitches,Length,"Area Latitude","Area Longitude"
+"Rock Caddie","Long Wall > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107195821/rock-caddie,1.8,-1,Sport,5.10a,1,50,37.8446,-83.6686
+"Vector Trouble","Long Wall > Red River Gorge > Kentucky",https://www.mountainproject.com/route/105865685/vector-trouble,3.7,-1,Trad,5.10a,1,100,37.8446,-83.6686
+"Rock Wars","Long Wall > Red River Gorge > Kentucky",https://www.mountainproject.com/route/105868000/rock-wars,3.9,-1,Trad,5.10a,1,110,37.8446,-83.6686
+"Boom Boom Out Go The Lights","Long Wall > Red River Gorge > Kentucky",https://www.mountainproject.com/route/105885186/boom-boom-out-go-the-lights,2.4,-1,Sport,5.10b,1,60,37.8446,-83.6686
+"Fear and Loathing in Nada","Long Wall > Red River Gorge > Kentucky",https://www.mountainproject.com/route/108037538/fear-and-loathing-in-nada,3.0,-1,Trad,5.10b,1,180,37.8446,-83.6686
+Perforator,"Long Wall > Red River Gorge > Kentucky",https://www.mountainproject.com/route/105868700/perforator,2.9,-1,Trad,5.10b/c,1,120,37.8446,-83.6686
+"Back Door to Paris","Long Wall > Red River Gorge > Kentucky",https://www.mountainproject.com/route/105891912/back-door-to-paris,2.4,-1,Sport,5.10c,1,70,37.8446,-83.6686
+"Next Day Air","Long Wall > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107667730/next-day-air,3.2,-1,Trad,"5.10+ PG13",2,100,37.8446,-83.6686
+"Kazi and Mito","Long Wall > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107195787/kazi-and-mito,2.0,-1,Sport,5.11a,1,50,37.8446,-83.6686
+B3,"Long Wall > Red River Gorge > Kentucky",https://www.mountainproject.com/route/105868693/b3,3.7,-1,Trad,"5.11b PG13",1,120,37.8446,-83.6686
+"Souders Crack","Long Wall > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106937634/souders-crack,3.0,-1,Trad,"5.11 R",1,80,37.8446,-83.6686
+"Game Boy","Long Wall > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106309183/game-boy,3.3,-1,Sport,5.11c,1,140,37.8446,-83.6686
+"Stand and Deliver","Long Wall > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107195735/stand-and-deliver,3.0,-1,Sport,5.11c,1,70,37.8446,-83.6686
+"Now I'm Nothing","Long Wall > Red River Gorge > Kentucky",https://www.mountainproject.com/route/105868029/now-im-nothing,3.1,-1,"Trad, TR, Boulder","5.11c V3 X",1,20,37.8446,-83.6686
+"Whip It Out","Long Wall > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107195752/whip-it-out,1.9,-1,Sport,5.11d,1,40,37.8446,-83.6686
+"Trinket Man","Long Wall > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107195762/trinket-man,2.5,-1,Sport,5.11d,1,90,37.8446,-83.6686
+"Fire and Finess","Long Wall > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107195778/fire-and-finess,-1.0,-1,Sport,5.11d,1,50,37.8446,-83.6686
+"The Snatch","Long Wall > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107195807/the-snatch,1.0,-1,Sport,5.11d,1,50,37.8446,-83.6686
+"Reserved Seating","Pebble Beach > Red River Gorge > Kentucky",https://www.mountainproject.com/route/105885193/reserved-seating,2.6,-1,Sport,5.10b,1,50,37.8588,-83.67163
+Brontosaurus,"Pebble Beach > Red River Gorge > Kentucky",https://www.mountainproject.com/route/105860631/brontosaurus,3.6,-1,Trad,5.10b,1,60,37.8588,-83.67163
+"Physical Attraction","Pebble Beach > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106176114/physical-attraction,3.0,-1,Trad,5.10b,1,80,37.8588,-83.67163
+"Ju Ju","Pebble Beach > Red River Gorge > Kentucky",https://www.mountainproject.com/route/105885386/ju-ju,2.6,-1,Sport,5.10b,1,60,37.8588,-83.67163
+Sundance,"Pebble Beach > Red River Gorge > Kentucky",https://www.mountainproject.com/route/105885373/sundance,2.4,-1,Sport,5.10,1,60,37.8588,-83.67163
+"Can o’ Peaches","Pebble Beach > Red River Gorge > Kentucky",https://www.mountainproject.com/route/114573713/can-o-peaches,3.3,-1,Trad,5.11c,1,40,37.8588,-83.67163
+"The Seam","Pebble Beach > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107618215/the-seam,2.3,-1,Trad,"5.11c R",1,30,37.8588,-83.67163
+"High Noon","Pebble Beach > Red River Gorge > Kentucky",https://www.mountainproject.com/route/105885214/high-noon,2.0,-1,Sport,5.11d,1,60,37.8588,-83.67163
+AWOL,"Graining Fork Nature Preserve (a.k.a. Roadside Crag) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/105880940/awol,2.9,-1,Sport,5.10a,1,50,37.7334,-83.6591
+"Andromeda Strain","Graining Fork Nature Preserve (a.k.a. Roadside Crag) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/105871982/andromeda-strain,3.8,-1,Trad,5.10a,1,100,37.7334,-83.6591
+Fadda,"Graining Fork Nature Preserve (a.k.a. Roadside Crag) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/105860751/fadda,2.1,-1,Sport,5.10a,1,50,37.7334,-83.6591
+"Runnin Down a Dream","Graining Fork Nature Preserve (a.k.a. Roadside Crag) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106402728/runnin-down-a-dream,3.8,-1,Trad,"5.10a R",2,75,37.7334,-83.6591
+"Hard Left","Graining Fork Nature Preserve (a.k.a. Roadside Crag) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106065335/hard-left,2.8,-1,"Trad, Sport",5.10a,1,70,37.7334,-83.6591
+"Battle of the Bulge","Graining Fork Nature Preserve (a.k.a. Roadside Crag) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/116191447/battle-of-the-bulge,2.0,-1,Trad,"5.10a R",1,80,37.7334,-83.6591
+"You Can Tune a Piano, but You Can't Tuna Fish","Graining Fork Nature Preserve (a.k.a. Roadside Crag) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106286289/you-can-tune-a-piano-but-you-cant-tuna-fish,2.5,-1,Sport,5.10b,1,60,37.7334,-83.6591
+"Crazy Fingers","Graining Fork Nature Preserve (a.k.a. Roadside Crag) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/105886641/crazy-fingers,3.0,-1,Sport,5.10c,1,50,37.7334,-83.6591
+"Mantel Route","Graining Fork Nature Preserve (a.k.a. Roadside Crag) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/114466253/mantel-route,4.0,-1,Trad,5.10c,1,60,37.7334,-83.6591
+"Pulling Pockets","Graining Fork Nature Preserve (a.k.a. Roadside Crag) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/105893126/pulling-pockets,3.2,-1,Sport,5.10d,1,50,37.7334,-83.6591
+"Just Duet","Graining Fork Nature Preserve (a.k.a. Roadside Crag) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106124912/just-duet,2.6,-1,Sport,5.10d,1,70,37.7334,-83.6591
+Dragonslayer,"Graining Fork Nature Preserve (a.k.a. Roadside Crag) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/105886633/dragonslayer,3.1,-1,Sport,5.10d,1,50,37.7334,-83.6591
+Synchronicity,"Graining Fork Nature Preserve (a.k.a. Roadside Crag) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/105889531/synchronicity,3.6,-1,Trad,5.11a,1,50,37.7334,-83.6591
+"Up Yonder","Graining Fork Nature Preserve (a.k.a. Roadside Crag) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/105901381/up-yonder,3.0,-1,Sport,5.11b,1,40,37.7334,-83.6591
+"Harder Than Your Husband","Graining Fork Nature Preserve (a.k.a. Roadside Crag) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106045420/harder-than-your-husband,2.4,-1,Trad,5.11b,1,40,37.7334,-83.6591
+"Eric and Brian's Excellent Adventure","Graining Fork Nature Preserve (a.k.a. Roadside Crag) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/113806944/eric-and-brians-excellent-adventure,1.0,-1,Sport,5.11d,1,95,37.7334,-83.6591
+"Milkin' the Chicken","Graining Fork Nature Preserve (a.k.a. Roadside Crag) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/105871993/milkin-the-chicken,1.5,-1,"Trad, Sport","5.11d PG13",1,50,37.7334,-83.6591
+"The Return of Chris Snyder","Graining Fork Nature Preserve (a.k.a. Roadside Crag) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106020821/the-return-of-chris-snyder,3.9,-1,Sport,5.11d,1,100,37.7334,-83.6591
+Hemisfear,"Graining Fork Nature Preserve (a.k.a. Roadside Crag) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106369238/hemisfear,3.2,-1,Sport,5.11d,1,40,37.7334,-83.6591
+Scissors,"Graining Fork Nature Preserve (a.k.a. Roadside Crag) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107059158/scissors,2.6,-1,Sport,5.11d,1,50,37.7334,-83.6591
+Mandarin,"Emerald City > Red River Gorge > Kentucky",https://www.mountainproject.com/route/105870781/mandarin,2.0,-1,TR,5.10-,1,50,37.75195,-83.66364
+TNT,"Emerald City > Red River Gorge > Kentucky",https://www.mountainproject.com/route/111858868/tnt,3.0,-1,Trad,5.10b,2,80,37.75195,-83.66364
+"Diamond In The Rough","Emerald City > Red River Gorge > Kentucky",https://www.mountainproject.com/route/105860768/diamond-in-the-rough,3.3,-1,Sport,5.10c,1,80,37.75195,-83.66364
+"Ruby Slippers","Emerald City > Red River Gorge > Kentucky",https://www.mountainproject.com/route/105870235/ruby-slippers,3.0,-1,Sport,5.10d,1,70,37.75195,-83.66364
+"Yellow Brick Road","Emerald City > Red River Gorge > Kentucky",https://www.mountainproject.com/route/105870649/yellow-brick-road,3.7,-1,Sport,5.11b,1,50,37.75195,-83.66364
+"Lolliop Kids","Emerald City > Red River Gorge > Kentucky",https://www.mountainproject.com/route/105870239/lolliop-kids,3.2,-1,Sport,5.11b,1,70,37.75195,-83.66364
+"No Place Like Home","Emerald City > Red River Gorge > Kentucky",https://www.mountainproject.com/route/105870227/no-place-like-home,3.8,-1,Sport,5.11c,1,100,37.75195,-83.66364
+Oz,"Emerald City > Red River Gorge > Kentucky",https://www.mountainproject.com/route/105860773/oz,2.9,-1,Sport,5.11c,1,70,37.75195,-83.66364
+"Flying Monkeys","Emerald City > Red River Gorge > Kentucky",https://www.mountainproject.com/route/105870231/flying-monkeys,2.5,-1,Sport,5.11d,1,70,37.75195,-83.66364
+"Kentucky Pinstripe","Global Village > Red River Gorge > Kentucky",https://www.mountainproject.com/route/105880920/kentucky-pinstripe,2.7,-1,Sport,5.10a,1,80,37.75162,-83.65731
+"Loosen Up","Global Village > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106109316/loosen-up,2.7,-1,Sport,5.10b,1,50,37.75162,-83.65731
+"Dog Fight (a.k.a. Circa Man)","Global Village > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107622069/dog-fight-aka-circa-man,2.8,-1,Sport,5.10d,1,60,37.75162,-83.65731
+"Out For Justice","Global Village > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106123164/out-for-justice,3.6,-1,Sport,5.11b,1,65,37.75162,-83.65731
+Disappearer,"Global Village > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106309912/disappearer,2.8,-1,Sport,5.11c,1,70,37.75162,-83.65731
+"Chem Studs","Pistol Ridge > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106837601/chem-studs,2.0,-1,Sport,5.10a,1,35,37.86342,-83.67403
+"Way of the Peaceful Warrior","Pistol Ridge > Red River Gorge > Kentucky",https://www.mountainproject.com/route/115785913/way-of-the-peaceful-warrior,2.0,-1,Trad,5.10a,1,55,37.86342,-83.67403
+"Black Friday","Pistol Ridge > Red River Gorge > Kentucky",https://www.mountainproject.com/route/111927066/black-friday,3.0,-1,Trad,5.10b,1,60,37.86342,-83.67403
+Armed,"Pistol Ridge > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107639233/armed,2.0,-1,Trad,5.10b,1,55,37.86342,-83.67403
+"A Fresh Start","Pistol Ridge > Red River Gorge > Kentucky",https://www.mountainproject.com/route/108877939/a-fresh-start,2.3,-1,Trad,5.10c,1,40,37.86342,-83.67403
+"Cruising Lane","Funk Rock City > Red River Gorge > Kentucky",https://www.mountainproject.com/route/105866423/cruising-lane,3.2,-1,Trad,5.10a,1,80,37.8029,-83.5762
+"Headstone Surfer","Funk Rock City > Red River Gorge > Kentucky",https://www.mountainproject.com/route/105866439/headstone-surfer,3.6,-1,Trad,5.10a,1,90,37.8029,-83.5762
+"Manic Impression","Funk Rock City > Red River Gorge > Kentucky",https://www.mountainproject.com/route/105866451/manic-impression,3.1,-1,Sport,5.10a,1,95,37.8029,-83.5762
+"Local Color","Funk Rock City > Red River Gorge > Kentucky",https://www.mountainproject.com/route/105867551/local-color,2.0,-1,TR,"5.10b X",1,80,37.8029,-83.5762
+Funkadelic,"Funk Rock City > Red River Gorge > Kentucky",https://www.mountainproject.com/route/105866459/funkadelic,3.0,-1,Sport,5.10b,1,95,37.8029,-83.5762
+Goodstone,"Funk Rock City > Red River Gorge > Kentucky",https://www.mountainproject.com/route/105867546/goodstone,3.1,-1,Trad,5.10c/d,1,80,37.8029,-83.5762
+"Red Hot Chilli Pepper","Funk Rock City > Red River Gorge > Kentucky",https://www.mountainproject.com/route/105869231/red-hot-chilli-pepper,3.0,-1,"Trad, Sport",5.10d,1,90,37.8029,-83.5762
+Emphysema,"Funk Rock City > Red River Gorge > Kentucky",https://www.mountainproject.com/route/111843514/emphysema,3.0,-1,Trad,5.11a,1,85,37.8029,-83.5762
+"Prime Directive","Funk Rock City > Red River Gorge > Kentucky",https://www.mountainproject.com/route/105869244/prime-directive,3.5,-1,Sport,5.11b,1,100,37.8029,-83.5762
+"Eye of the Needle","Funk Rock City > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106282978/eye-of-the-needle,3.5,-1,Sport,5.11b,1,85,37.8029,-83.5762
+"Smokin' Joe","Funk Rock City > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106282997/smokin-joe,3.0,-1,Sport,5.11b,1,80,37.8029,-83.5762
+"L'ile Au Ciel","Funk Rock City > Red River Gorge > Kentucky",https://www.mountainproject.com/route/105868726/lile-au-ciel,3.4,-1,Sport,5.11c,1,50,37.8029,-83.5762
+"There Goes the Neighborhood","Funk Rock City > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106283004/there-goes-the-neighborhood,3.5,-1,Sport,5.11c,1,95,37.8029,-83.5762
+"The Infidel","Funk Rock City > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107122332/the-infidel,3.7,-1,Sport,5.11d,1,75,37.8029,-83.5762
+"The Return of Geoff Beene","Western Sky Bridge Ridge > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106166709/the-return-of-geoff-beene,3.6,-1,Trad,5.10b/c,1,60,37.81309,-83.58575
+"The Big Bang","Eastern Sky Bridge Ridge > Red River Gorge > Kentucky",https://www.mountainproject.com/route/115378797/the-big-bang,1.7,-1,"Trad, TR","5.10c X",1,50,37.81596,-83.58104
+"Doppler Effect","Eastern Sky Bridge Ridge > Red River Gorge > Kentucky",https://www.mountainproject.com/route/105870316/doppler-effect,3.5,-1,Trad,5.10c,1,50,37.81596,-83.58104
+"Jack in the Pulpit","Eastern Sky Bridge Ridge > Red River Gorge > Kentucky",https://www.mountainproject.com/route/105917977/jack-in-the-pulpit,3.0,-1,Sport,5.10d,1,70,37.81596,-83.58104
+Inhibitor,"Eastern Sky Bridge Ridge > Red River Gorge > Kentucky",https://www.mountainproject.com/route/105917957/inhibitor,4.0,-1,Trad,"5.11a PG13",1,100,37.81596,-83.58104
+"Super Dario","Eastern Sky Bridge Ridge > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106121898/super-dario,3.5,-1,Sport,5.11a,1,70,37.81596,-83.58104
+"King Me","Eastern Sky Bridge Ridge > Red River Gorge > Kentucky",https://www.mountainproject.com/route/105964688/king-me,3.8,-1,Sport,5.11b,1,90,37.81596,-83.58104
+Commencement,"Eastern Sky Bridge Ridge > Red River Gorge > Kentucky",https://www.mountainproject.com/route/105917962/commencement,2.7,-1,Sport,5.11c,1,90,37.81596,-83.58104
+"Sick Puppies","Eastern Sky Bridge Ridge > Red River Gorge > Kentucky",https://www.mountainproject.com/route/108392771/sick-puppies,2.9,-1,Sport,5.11c,1,45,37.81596,-83.58104
+"Corpus Delicti","Eastern Sky Bridge Ridge > Red River Gorge > Kentucky",https://www.mountainproject.com/route/111889920/corpus-delicti,3.0,-1,Sport,5.11d,1,70,37.81596,-83.58104
+"Dave the Dude","Eastern Sky Bridge Ridge > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106169442/dave-the-dude,3.7,-1,Sport,5.11d,1,70,37.81596,-83.58104
+"Martin Rides Again","Eastern Sky Bridge Ridge > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107433601/martin-rides-again,3.1,-1,Sport,5.11d,1,70,37.81596,-83.58104
+"Anne's Crack","Wall of Denial > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106457752/annes-crack,1.0,-1,Trad,5.10a,1,45,37.82476,-83.54807
+"Sisyphean Labor","Wall of Denial > Red River Gorge > Kentucky",https://www.mountainproject.com/route/116644561/sisyphean-labor,2.0,-1,Trad,5.10a,1,70,37.82476,-83.54807
+"Toxic Avenger","Wall of Denial > Red River Gorge > Kentucky",https://www.mountainproject.com/route/105880984/toxic-avenger,3.3,-1,Sport,5.10d,1,60,37.82476,-83.54807
+"Cold Shot","Wall of Denial > Red River Gorge > Kentucky",https://www.mountainproject.com/route/105870306/cold-shot,2.0,-1,Sport,5.11a,1,100,37.82476,-83.54807
+11:11,"Wall of Denial > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106282961/1111,2.5,-1,Trad,5.11b,1,60,37.82476,-83.54807
+"Day Tripping","Eagle Point Buttress > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107051854/day-tripping,4.0,-1,Trad,5.10,3,250,37.82621,-83.5621
+"Captain One Eye","Purple Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/105870336/captain-one-eye,2.4,-1,Sport,5.10a,1,70,37.90083,-83.63815
+"Social Butterfly","Purple Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106176798/social-butterfly,2.5,-1,Trad,5.10a,1,25,37.90083,-83.63815
+"5.11 Jimmy and Spike Go Craggin'","Purple Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106176804/511-jimmy-and-spike-go-craggin,2.5,-1,Sport,5.10b,1,40,37.90083,-83.63815
+"A Way of Life","Purple Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107717986/a-way-of-life,2.2,-1,Sport,5.10b,1,60,37.90083,-83.63815
+"Come In Your Lycra","Purple Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/105977711/come-in-your-lycra,3.1,-1,Sport,5.10b,1,45,37.90083,-83.63815
+"Coffee Talk","Purple Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106641255/coffee-talk,1.9,-1,Sport,5.10c,1,60,37.90083,-83.63815
+"Pleasant Surprise","Purple Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106176791/pleasant-surprise,3.0,-1,Trad,5.11a,1,50,37.90083,-83.63815
+"Delusions of Grandeur","Purple Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106641263/delusions-of-grandeur,2.6,-1,Sport,5.11b,1,60,37.90083,-83.63815
+"Electric Cowboy","Purple Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/105917907/electric-cowboy,3.6,-1,Sport,5.11b,1,70,37.90083,-83.63815
+"Burden of Dreams","Purple Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/108343367/burden-of-dreams,3.0,-1,Trad,5.11c,2,80,37.90083,-83.63815
+"The Love Shack","Purple Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106641271/the-love-shack,2.4,-1,Sport,5.11c,1,30,37.90083,-83.63815
+"Chickenhead Better Than No Head","Dip Wall > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107334506/chickenhead-better-than-no-head,1.0,-1,Trad,"5.10a R",1,60,37.8927,-83.6519
+"Logic and Proportion","Dip Wall > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107334531/logic-and-proportion,2.4,-1,Trad,"5.10a PG13",1,60,37.8927,-83.6519
+"Sam I Am","Dip Wall > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107884601/sam-i-am,3.3,-1,Trad,5.10d,1,60,37.8927,-83.6519
+Griptospuridiam,"Dip Wall > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107334542/griptospuridiam,2.0,-1,Trad,5.11b,1,60,37.8927,-83.6519
+"Sylvester McMonkey McBean (aka Snitches)","Dip Wall > Red River Gorge > Kentucky",https://www.mountainproject.com/route/108192487/sylvester-mcmonkey-mcbean-aka-snitches,3.0,-1,Trad,5.11,1,100,37.8927,-83.6519
+"Dead Deer","Jazz Rock > Red River Gorge > Kentucky",https://www.mountainproject.com/route/105917885/dead-deer,1.0,-1,"Trad, TR","5.10a X",1,40,37.8732,-83.6678
+"Long Live Trad","Jazz Rock > Red River Gorge > Kentucky",https://www.mountainproject.com/route/105869204/long-live-trad,3.5,-1,Trad,5.10c,1,70,37.8732,-83.6678
+"Prozac Nation","Willie's Wall > Red River Gorge > Kentucky",https://www.mountainproject.com/route/105869223/prozac-nation,1.0,-1,Trad,"5.10+ X",1,80,37.87355,-83.66425
+"To Defy The Laws Of Tradition","Left Flank > Red River Gorge > Kentucky",https://www.mountainproject.com/route/105860648/to-defy-the-laws-of-tradition,3.3,-1,Sport,5.10a,1,60,37.81449,-83.66388
+"Fast Food Christians","Left Flank > Red River Gorge > Kentucky",https://www.mountainproject.com/route/105860661/fast-food-christians,1.8,-1,Sport,5.10a,1,,37.81449,-83.66388
+"Trad Boy Go","Left Flank > Red River Gorge > Kentucky",https://www.mountainproject.com/route/115353864/trad-boy-go,3.0,-1,Trad,5.11a,1,70,37.81449,-83.66388
+Maypop,"Left Flank > Red River Gorge > Kentucky",https://www.mountainproject.com/route/105860735/maypop,2.1,-1,Sport,5.11a,1,65,37.81449,-83.66388
+Henry,"Left Flank > Red River Gorge > Kentucky",https://www.mountainproject.com/route/105867536/henry,3.0,-1,Sport,5.11b,1,50,37.81449,-83.66388
+"Aquaduck Pocket","Left Flank > Red River Gorge > Kentucky",https://www.mountainproject.com/route/105866361/aquaduck-pocket,2.6,-1,Sport,5.11b,1,50,37.81449,-83.66388
+"Relaxed Atmoshere","Left Flank > Red River Gorge > Kentucky",https://www.mountainproject.com/route/105866366/relaxed-atmoshere,2.3,-1,Sport,5.11,1,60,37.81449,-83.66388
+"Third World Lover","Left Flank > Red River Gorge > Kentucky",https://www.mountainproject.com/route/105866371/third-world-lover,2.1,-1,Sport,5.11c,1,60,37.81449,-83.66388
+"Unsportsmanlike Conduct","Left Flank > Red River Gorge > Kentucky",https://www.mountainproject.com/route/111748094/unsportsmanlike-conduct,3.3,-1,Trad,5.11c,1,50,37.81449,-83.66388
+"Stay Left","Military Wall > Red River Gorge > Kentucky",https://www.mountainproject.com/route/105870266/stay-left,1.7,-1,Sport,5.10a,1,50,37.8159,-83.66918
+"Jungle Beat","Military Wall > Red River Gorge > Kentucky",https://www.mountainproject.com/route/105870026/jungle-beat,3.8,-1,Trad,5.10a,2,200,37.8159,-83.66918
+"Subatomic Fingerlock (closed)","Military Wall > Red River Gorge > Kentucky",https://www.mountainproject.com/route/105885169/subatomic-fingerlock-closed,2.5,-1,Trad,5.10a,1,35,37.8159,-83.66918
+"Not Worth It","Military Wall > Red River Gorge > Kentucky",https://www.mountainproject.com/route/112256699/not-worth-it,3.0,-1,Trad,5.10b,1,60,37.8159,-83.66918
+"Danita Dolores","Military Wall > Red River Gorge > Kentucky",https://www.mountainproject.com/route/105870198/danita-dolores,2.5,-1,Sport,5.10,1,60,37.8159,-83.66918
+"In the Light","Military Wall > Red River Gorge > Kentucky",https://www.mountainproject.com/route/105891681/in-the-light,2.5,-1,Sport,5.10c,1,50,37.8159,-83.66918
+"Beene Material","Military Wall > Red River Gorge > Kentucky",https://www.mountainproject.com/route/105885175/beene-material,2.3,-1,Trad,5.10c,1,70,37.8159,-83.66918
+"BeeneStalker (closed)","Military Wall > Red River Gorge > Kentucky",https://www.mountainproject.com/route/105870205/beenestalker-closed,3.8,-1,Trad,"5.10d PG13",1,70,37.8159,-83.66918
+"Possum Lips","Military Wall > Red River Gorge > Kentucky",https://www.mountainproject.com/route/105870248/possum-lips,2.6,-1,Sport,5.10d,1,50,37.8159,-83.66918
+"Another Doug Reed Route","Military Wall > Red River Gorge > Kentucky",https://www.mountainproject.com/route/105870243/another-doug-reed-route,3.0,-1,Sport,5.11-,1,65,37.8159,-83.66918
+"Left Turret","Military Wall > Red River Gorge > Kentucky",https://www.mountainproject.com/route/105939731/left-turret,2.5,-1,Sport,5.11b,1,50,37.8159,-83.66918
+"Parting Gift","Military Wall > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106123184/parting-gift,2.8,-1,Sport,5.11b,1,55,37.8159,-83.66918
+"Fuzzy Undercling","Military Wall > Red River Gorge > Kentucky",https://www.mountainproject.com/route/105870256/fuzzy-undercling,3.5,-1,Sport,5.11b,1,60,37.8159,-83.66918
+"Bozo's Bogus Booty Biner (BBBB)","Military Wall > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106731301/bozos-bogus-booty-biner-bbbb,3.0,-1,Sport,5.11c,1,70,37.8159,-83.66918
+"Minimum Creep","Military Wall > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106574382/minimum-creep,2.9,-1,Sport,5.11c,1,60,37.8159,-83.66918
+"All Things Considered","Military Wall > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106641238/all-things-considered,3.8,-1,Sport,5.11d,1,55,37.8159,-83.66918
+"Forearm Follies","Military Wall > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106061926/forearm-follies,3.3,-1,Sport,5.11d,1,100,37.8159,-83.66918
+"Jac Mac (closed)","Military Wall > Red River Gorge > Kentucky",https://www.mountainproject.com/route/105870220/jac-mac-closed,3.5,-1,Sport,5.11d,1,60,37.8159,-83.66918
+"Government Cheese","Military Wall > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107195878/government-cheese,3.1,-1,Sport,5.11d,1,60,37.8159,-83.66918
+"Kool Aid","Jewel Pinnacle > Red River Gorge > Kentucky",https://www.mountainproject.com/route/112553111/kool-aid,3.0,-1,Trad,5.11b,1,60,37.83208,-83.61244
+"Fading Memory","Fortress Wall > Red River Gorge > Kentucky",https://www.mountainproject.com/route/105889556/fading-memory,1.0,-1,Trad,"5.10- R",1,70,37.83768,-83.64701
+"Where Lizards Dare","Fortress Wall > Red River Gorge > Kentucky",https://www.mountainproject.com/route/105919793/where-lizards-dare,3.6,-1,"Trad, Aid","5.10b A2",1,70,37.83768,-83.64701
+Serpent,"Fortress Wall > Red River Gorge > Kentucky",https://www.mountainproject.com/route/105919564/serpent,2.5,-1,Trad,"5.10b R",1,60,37.83768,-83.64701
+"The After Party","Fortress Wall > Red River Gorge > Kentucky",https://www.mountainproject.com/route/113952079/the-after-party,4.0,-1,Trad,5.10b,1,90,37.83768,-83.64701
+"Lost in Space","Fortress Wall > Red River Gorge > Kentucky",https://www.mountainproject.com/route/112040438/lost-in-space,2.0,-1,Trad,5.10b,1,150,37.83768,-83.64701
+"The Battlement","Fortress Wall > Red River Gorge > Kentucky",https://www.mountainproject.com/route/105870284/the-battlement,2.3,-1,Trad,5.10+,2,60,37.83768,-83.64701
+"Thunder Chicken","Fortress Wall > Red River Gorge > Kentucky",https://www.mountainproject.com/route/110268453/thunder-chicken,3.7,-1,Trad,5.11a,1,50,37.83768,-83.64701
+"Grand Bazaar","Phantasia > Red River Gorge > Kentucky",https://www.mountainproject.com/route/108255409/grand-bazaar,2.0,-1,Trad,5.10a,1,65,37.84495,-83.64369
+"Perverse Intentions","Phantasia > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106727865/perverse-intentions,2.2,-1,Sport,5.10a/b,1,40,37.84495,-83.64369
+Overlord,"Phantasia > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106149038/overlord,2.7,-1,Sport,5.10b,1,50,37.84495,-83.64369
+"Creep Show","Phantasia > Red River Gorge > Kentucky",https://www.mountainproject.com/route/105889540/creep-show,3.4,-1,Sport,5.10d,1,70,37.84495,-83.64369
+"Count Floyd Show","Phantasia > Red River Gorge > Kentucky",https://www.mountainproject.com/route/105889544/count-floyd-show,3.0,-1,Sport,5.11b,1,70,37.84495,-83.64369
+Fallout,"Half Moon Rock > Red River Gorge > Kentucky",https://www.mountainproject.com/route/105872771/fallout,2.5,-1,Trad,5.10a,1,60,37.8199,-83.622
+"Air Ride Equipped","The Solarium > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106586504/air-ride-equipped,3.6,-1,Sport,5.11a,1,65,37.73372,-83.63884
+Banshee,"The Solarium > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106333612/banshee,3.9,-1,Sport,5.11c,1,100,37.73372,-83.63884
+"Manifest Destiny","The Solarium > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106316623/manifest-destiny,3.1,-1,Sport,5.11d,1,70,37.73372,-83.63884
+Tradisfaction,"The Stadium > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106065691/tradisfaction,3.5,-1,Trad,5.10a/b,1,80,37.73169,-83.63221
+"No Bones About It","The Stadium > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106059211/no-bones-about-it,2.6,-1,Trad,5.10b,1,90,37.73169,-83.63221
+Augenblick,"The Stadium > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106059358/augenblick,3.0,-1,Sport,5.10c,1,80,37.73169,-83.63221
+Scrumbulglazer,"The Stadium > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106059217/scrumbulglazer,2.4,-1,Sport,5.10c,1,65,37.73169,-83.63221
+"Psycho Billy Cadillac","The Stadium > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/113867044/psycho-billy-cadillac,2.0,-1,Trad,5.10+,1,95,37.73169,-83.63221
+"Treetop Terror","The Stadium > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106065250/treetop-terror,2.5,-1,"Trad, Sport",5.10d,1,,37.73169,-83.63221
+"Melancholy Mechanics","The Stadium > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106059221/melancholy-mechanics,2.5,-1,Sport,5.10d,1,65,37.73169,-83.63221
+Ascentuality,"The Stadium > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106059353/ascentuality,3.3,-1,"Trad, Sport",5.11a,1,70,37.73169,-83.63221
+"Kentucky Waterfall","The Stadium > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107624314/kentucky-waterfall,3.0,-1,Trad,5.11a,1,,37.73169,-83.63221
+Tug-O-War,"The Stadium > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106065237/tug-o-war,3.1,-1,Sport,5.11b,1,80,37.73169,-83.63221
+Areterection,"The Stadium > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106065258/areterection,3.4,-1,Sport,5.11c,1,80,37.73169,-83.63221
+"Rat Stew","Bruise Brothers Wall > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106061906/rat-stew,3.1,-1,Sport,5.10a,1,75,37.72482,-83.62612
+Redriveroutdoors.com,"Bruise Brothers Wall > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106727830/redriveroutdoorscom,2.0,-1,Sport,5.10a,1,30,37.72482,-83.62612
+"Little Viper","Bruise Brothers Wall > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106065268/little-viper,2.6,-1,Sport,5.10b,1,50,37.72482,-83.62612
+"Critters on the Cliff","Bruise Brothers Wall > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106061920/critters-on-the-cliff,3.0,-1,Sport,5.10c,1,75,37.72482,-83.62612
+"Hey There Fancy Pants","Bruise Brothers Wall > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106064500/hey-there-fancy-pants,2.7,-1,Sport,5.10c,1,55,37.72482,-83.62612
+"Workin' For The Weekend","Bruise Brothers Wall > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106130303/workin-for-the-weekend,2.9,-1,Sport,5.10c,1,70,37.72482,-83.62612
+"Don't Take Yer Guns to Town","Bruise Brothers Wall > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106579371/dont-take-yer-guns-to-town,2.4,-1,Sport,5.10c,1,50,37.72482,-83.62612
+"Return of Manimal","Bruise Brothers Wall > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106061901/return-of-manimal,3.3,-1,Sport,5.10d,1,85,37.72482,-83.62612
+"Jungle Trundler","Bruise Brothers Wall > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106129989/jungle-trundler,2.9,-1,Sport,5.11a,1,60,37.72482,-83.62612
+Rising,"Bruise Brothers Wall > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106302099/rising,2.6,-1,Sport,5.11a,1,50,37.72482,-83.62612
+"Virgin Bolter Tag Team","Sunnyside > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106599140/virgin-bolter-tag-team,2.0,-1,Sport,5.10b,1,65,37.72324,-83.62607
+Machete,"Sunnyside > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106599147/machete,2.9,-1,Sport,5.10b,1,65,37.72324,-83.62607
+Enganche,"Sunnyside > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/109694699/enganche,2.0,-1,Trad,5.10b,1,60,37.72324,-83.62607
+"Dingo the Gringo","Sunnyside > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107131436/dingo-the-gringo,1.6,-1,Sport,5.10c,1,45,37.72324,-83.62607
+"Some Humans Ain't Human","Sunnyside > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107131450/some-humans-aint-human,2.8,-1,Sport,5.10c,1,50,37.72324,-83.62607
+"Fear or Common Sense","Sunnyside > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106061915/fear-or-common-sense,3.2,-1,Sport,5.11b,1,60,37.72324,-83.62607
+"Weed Eater","Sunnyside > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106937596/weed-eater,3.1,-1,Sport,5.11b,1,75,37.72324,-83.62607
+BLM,"Sunnyside > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/113518464/blm,3.5,-1,Sport,5.11c,1,65,37.72324,-83.62607
+"Velvet Revolution","Sunnyside > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107152673/velvet-revolution,3.5,-1,Sport,5.11d,1,100,37.72324,-83.62607
+"Plate Tectonics","Tectonic Wall > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106065471/plate-tectonics,3.3,-1,Sport,5.10a,1,70,37.7301,-83.6318
+"Gettin' Lucky in Kentucky","Tectonic Wall > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106065461/gettin-lucky-in-kentucky,3.4,-1,Sport,5.10b,1,60,37.7301,-83.6318
+Serpentine,"Tectonic Wall > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/110458752/serpentine,2.2,-1,Sport,5.10c,1,50,37.7301,-83.6318
+"Fifth Bolt Faith","Tectonic Wall > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106170048/fifth-bolt-faith,2.9,-1,Sport,5.10c,1,55,37.7301,-83.6318
+"Dime a Dozen","Tectonic Wall > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/111170638/dime-a-dozen,2.7,-1,Sport,5.11b,1,50,37.7301,-83.6318
+"Tight Lipped","Indy Wall > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/111785521/tight-lipped,1.0,-1,Sport,5.10a,1,,37.7282,-83.6353
+"Peer Pressure","Indy Wall > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/114602469/peer-pressure,1.0,-1,Sport,5.10b,1,30,37.7282,-83.6353
+"Annie the Annihilator","Indy Wall > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106128246/annie-the-annihilator,3.0,-1,Sport,5.10c,1,40,37.7282,-83.6353
+"Makin' Bacon","Indy Wall > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106128257/makin-bacon,2.7,-1,Sport,5.10d,1,40,37.7282,-83.6353
+"The Muir the Merrier","Indy Wall > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106255358/the-muir-the-merrier,1.9,-1,Sport,5.11a,1,45,37.7282,-83.6353
+"Social Stigma","Indy Wall > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107238454/social-stigma,2.8,-1,Sport,5.11b,1,60,37.7282,-83.6353
+"Mentor Powers","Indy Wall > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106193276/mentor-powers,2.8,-1,Sport,5.11b,1,40,37.7282,-83.6353
+"Mid-Life Crisis","Indy Wall > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106441777/mid-life-crisis,3.1,-1,Sport,5.11c,1,40,37.7282,-83.6353
+Parasite,"Indy Wall > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107238465/parasite,2.5,-1,Sport,5.11c,1,60,37.7282,-83.6353
+"The Happy Fisherman","Indy Wall > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106421904/the-happy-fisherman,2.7,-1,Sport,5.11c,1,40,37.7282,-83.6353
+"Conquistador of the Crumbly","The Sanctuary > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/113861367/conquistador-of-the-crumbly,2.0,-1,Trad,5.10+,1,75,37.73135,-83.63397
+"Bad Company","Inner Sanctum > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106128972/bad-company,2.7,-1,Sport,5.10b,1,50,37.73203,-83.63337
+"Karmic Retribution","Inner Sanctum > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106286405/karmic-retribution,3.0,-1,Sport,5.10c,1,45,37.73203,-83.63337
+"Naughty Neighbors","Inner Sanctum > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106128957/naughty-neighbors,2.7,-1,Sport,5.10d,1,55,37.73203,-83.63337
+"Consenting Adult","Inner Sanctum > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/111598105/consenting-adult,3.7,-1,Sport,5.11b,1,65,37.73203,-83.63337
+Psyberpunk,"Inner Sanctum > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106915706/psyberpunk,3.4,-1,Sport,5.11c,1,65,37.73203,-83.63337
+"59"" DrillBitch","Johnny's Wall > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106614611/59-drillbitch,2.9,-1,Sport,5.10a,1,45,37.72961,-83.63208
+Bethel,"Johnny's Wall > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106614620/bethel,2.8,-1,Sport,5.10a,1,50,37.72961,-83.63208
+Mancala,"Johnny's Wall > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106921324/mancala,2.5,-1,Sport,5.10a,1,45,37.72961,-83.63208
+Spinner,"Johnny's Wall > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106614626/spinner,2.8,-1,Sport,5.10b,1,50,37.72961,-83.63208
+"Grey Matter","Johnny's Wall > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/113861341/grey-matter,1.0,-1,TR,5.10,1,40,37.72961,-83.63208
+"Burning Bush","Johnny's Wall > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106783054/burning-bush,2.5,-1,Sport,5.11a,1,50,37.72961,-83.63208
+"Spider Crux","Washboard Wall > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/111712924/spider-crux,2.3,-1,Trad,5.10b,1,50,37.72738,-83.62942
+"Heard It On NPR","Washboard Wall > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107123636/heard-it-on-npr,3.2,-1,Sport,5.10d,2,100,37.72738,-83.62942
+Barenjager,"Washboard Wall > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107841212/barenjager,2.6,-1,Sport,5.10d,1,40,37.72738,-83.62942
+"Cordillera Rojo","Washboard Wall > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107841202/cordillera-rojo,2.0,-1,Sport,5.11a,2,115,37.72738,-83.62942
+"Brushfire Fairytales","Washboard Wall > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106577860/brushfire-fairytales,2.8,-1,Sport,5.11a,1,40,37.72738,-83.62942
+"Sticks and Stones","Washboard Wall > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/113733430/sticks-and-stones,2.0,-1,Trad,5.11+,1,35,37.72738,-83.62942
+"King Pin","The Bowling Alley > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107203385/king-pin,1.7,-1,Sport,5.10a,1,45,37.7212,-83.62513
+"Imminent Demise","The Bowling Alley > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106447766/imminent-demise,2.0,-1,Sport,5.10b,1,45,37.7212,-83.62513
+"Steel Reserve","The Bowling Alley > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107203377/steel-reserve,1.3,-1,Sport,5.10c,1,45,37.7212,-83.62513
+"Moots Madness","The Hideout > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106937614/moots-madness,2.3,-1,Sport,5.10a,1,40,37.73189,-83.63725
+Boltergeist,"The Hideout > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106580228/boltergeist,3.3,-1,Sport,5.10a/b,1,105,37.73189,-83.63725
+"Beware the Bear","The Hideout > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106789884/beware-the-bear,2.3,-1,Sport,5.10b,1,50,37.73189,-83.63725
+"Bourbon and Bluegrass","The Hideout > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/108362793/bourbon-and-bluegrass,2.6,-1,Trad,5.10c,1,70,37.73189,-83.63725
+"Pre-emptive Strike","The Hideout > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106463621/pre-emptive-strike,3.1,-1,Sport,5.10c,1,90,37.73189,-83.63725
+Bushwhacked,"The Hideout > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/108362895/bushwhacked,2.6,-1,Trad,5.10c,1,60,37.73189,-83.63725
+"Hoot and Holler","The Hideout > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/112811468/hoot-and-holler,2.2,-1,Trad,5.10c,1,60,37.73189,-83.63725
+"Mantle Peace","The Hideout > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/110978947/mantle-peace,1.6,-1,Sport,5.10c/d,1,80,37.73189,-83.63725
+"Cruisin' for a Bruisin'","The Hideout > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106937607/cruisin-for-a-bruisin,2.9,-1,Sport,5.10d,1,60,37.73189,-83.63725
+"Special K","The Hideout > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106962278/special-k,2.7,-1,Sport,5.11a,1,50,37.73189,-83.63725
+"All Mixed Up","The Hideout > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107219559/all-mixed-up,2.2,-1,"Trad, Sport",5.11a,1,85,37.73189,-83.63725
+"Apotheosis Denied","The Hideout > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107225708/apotheosis-denied,3.1,-1,Sport,5.11c,1,80,37.73189,-83.63725
+Earthsurfer,"The Hideout > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106956734/earthsurfer,2.7,-1,Sport,5.11d,1,100,37.73189,-83.63725
+"Dynabolt Gold","The Great Wall > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106422472/dynabolt-gold,3.0,-1,Sport,5.10a,1,70,37.73288,-83.63751
+"Bitter Ray of Sunshine","The Great Wall > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106451181/bitter-ray-of-sunshine,2.9,-1,Sport,5.10b,1,55,37.73288,-83.63751
+"Ledgends of Limonite (direct start)","The Great Wall > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106944299/ledgends-of-limonite-direct-start,2.3,-1,Sport,5.10,1,55,37.73288,-83.63751
+"Touch of Grey","The Great Wall > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106451192/touch-of-grey,2.6,-1,Sport,5.10d,1,65,37.73288,-83.63751
+Edge-a-Sketch,"The Great Wall > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106657106/edge-a-sketch,3.2,-1,Sport,5.11a,1,70,37.73288,-83.63751
+"Momma Cindy","The Great Wall > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106915673/momma-cindy,3.0,-1,Sport,5.11a,1,70,37.73288,-83.63751
+Buccaneer,"The Great Wall > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107204398/buccaneer,2.5,-1,Sport,5.11c,1,70,37.73288,-83.63751
+"Mellow Yellow","Midnight Surf > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107239389/mellow-yellow,2.0,-1,Sport,5.11a,1,80,37.732,-83.64195
+"Tree Hugger","Midnight Surf > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/110933299/tree-hugger,3.6,-1,Sport,5.11d,1,75,37.732,-83.64195
+"Son of a Wanted Man","The Boneyard > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106930952/son-of-a-wanted-man,2.4,-1,Trad,5.10a,1,73,37.73135,-83.63968
+"Lucy Goosey","The Boneyard > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107203231/lucy-goosey,2.6,-1,Sport,5.10b,1,80,37.73135,-83.63968
+"Surfing the Whale's Back","The Boneyard > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107203293/surfing-the-whales-back,1.5,-1,Sport,5.10b,1,55,37.73135,-83.63968
+"Tanduay Time","The Boneyard > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107203331/tanduay-time,2.6,-1,Sport,5.10d,1,60,37.73135,-83.63968
+"Armed Insurrection","The Boneyard > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106937663/armed-insurrection,2.8,-1,Sport,5.10d,1,80,37.73135,-83.63968
+"Tao Bato","The Boneyard > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107203340/tao-bato,2.5,-1,Sport,5.11a,1,60,37.73135,-83.63968
+"Captain Blonde Sinks The Ship","The Boneyard > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106603108/captain-blonde-sinks-the-ship,2.8,-1,Sport,5.11-,1,75,37.73135,-83.63968
+"Gym Jones Approved","The Boneyard > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106930714/gym-jones-approved,2.9,-1,Sport,5.11b,1,72,37.73135,-83.63968
+"Unknown Road","The Boneyard > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/109609246/unknown-road,2.0,-1,Sport,"5.11b PG13",1,45,37.73135,-83.63968
+"Haggis, Neeps and Taties","The Boneyard > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107203363/haggis-neeps-and-taties,2.0,-1,Sport,5.11b,1,85,37.73135,-83.63968
+Hematopoiesis,"The Boneyard > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/113628311/hematopoiesis,2.5,-1,Sport,5.11b,1,100,37.73135,-83.63968
+Renegade,"The Boneyard > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/108612757/renegade,3.3,-1,Trad,5.11c,1,70,37.73135,-83.63968
+"Flavor of the Week: McMoose Knuckle","The Boneyard > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/110973084/flavor-of-the-week-mcmoose-knuckle,3.0,-1,Sport,5.11c,1,80,37.73135,-83.63968
+Hoosierheights.com,"The Boneyard > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107203246/hoosierheightscom,2.3,-1,Sport,5.11c,1,80,37.73135,-83.63968
+"The First Fast Draw","The Boneyard > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107203275/the-first-fast-draw,2.0,-1,"Trad, Sport",5.11c,1,75,37.73135,-83.63968
+"Bangers and Mash","The Boneyard > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107203346/bangers-and-mash,3.3,-1,Sport,5.11+,1,70,37.73135,-83.63968
+"Sweet Tater","The Boneyard > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107203355/sweet-tater,3.0,-1,Sport,5.11d,1,70,37.73135,-83.63968
+"The Last Slow Draw","The Boneyard > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107203262/the-last-slow-draw,3.0,-1,Sport,5.11d,1,70,37.73135,-83.63968
+"Crescent Moon","Practice Wall > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106969859/crescent-moon,2.0,-1,Sport,5.10a,1,35,37.7275,-83.6278
+"Beta Spewer","Practice Wall > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106792065/beta-spewer,2.6,-1,Sport,5.10b,1,20,37.7275,-83.6278
+BDSM,"Practice Wall > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/108319711/bdsm,1.5,-1,Trad,5.10b,1,25,37.7275,-83.6278
+"Creeping Elegance","Practice Wall > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107239404/creeping-elegance,2.5,-1,Sport,5.11a,1,45,37.7275,-83.6278
+"Smear Tactics","Practice Wall > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107239431/smear-tactics,2.3,-1,Sport,5.11b,1,50,37.7275,-83.6278
+"Night Foxx","Practice Wall > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107239443/night-foxx,2.8,-1,Sport,5.11d,1,60,37.7275,-83.6278
+"Sheet Rock","Practice Wall > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107239454/sheet-rock,2.0,-1,Sport,5.11d,1,65,37.7275,-83.6278
+"Black Powder","Great Arch, The > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107143575/black-powder,2.7,-1,Sport,5.10a,1,85,37.73468,-83.63843
+"Night Moves","Great Arch, The > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107143145/night-moves,2.8,-1,Sport,5.11b,1,60,37.73468,-83.63843
+"Lip Service","Great Arch, The > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106935993/lip-service,3.5,-1,Sport,5.11c,1,80,37.73468,-83.63843
+"Battery Life","Great Arch, The > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107131332/battery-life,2.8,-1,Sport,5.11c,1,60,37.73468,-83.63843
+Thrillbillies,"Slab City > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107250835/thrillbillies,2.9,-1,Sport,5.10b,1,90,37.734,-83.64101
+"Return to Balance","Slab City > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106773969/return-to-balance,3.1,-1,Sport,5.11a,1,50,37.734,-83.64101
+"Strip the Willows","Slab City > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107250830/strip-the-willows,3.0,-1,Sport,5.11b,1,80,37.734,-83.64101
+"The Middle Path","Slab City > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/114369491/the-middle-path,3.0,-1,TR,5.11,1,60,37.734,-83.64101
+"Sacred Stones","Slab City > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107250825/sacred-stones,2.4,-1,Sport,5.11c,1,65,37.734,-83.64101
+Sacriledge,"The Arsenal > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106937622/sacriledge,2.6,-1,Sport,5.10d,1,60,37.73348,-83.63984
+"Bathtub Mary","The Arsenal > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106862482/bathtub-mary,3.7,-1,Sport,5.11a,1,70,37.73348,-83.63984
+Picador,"The Arsenal > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107156609/picador,2.9,-1,Sport,5.11b,1,55,37.73348,-83.63984
+Moonshine,"Sunbeam Buttress > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106915629/moonshine,2.5,-1,Sport,5.10a,1,60,37.7351,-83.6371
+"Primordial Dissonance","Sunbeam Buttress > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/114369552/primordial-dissonance,2.0,-1,Trad,5.10,1,80,37.7351,-83.6371
+"Revenge of the Sith","Sunbeam Buttress > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/108360900/revenge-of-the-sith,2.6,-1,Trad,5.10,1,20,37.7351,-83.6371
+Sunbeam,"Sunbeam Buttress > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106915637/sunbeam,2.6,-1,Sport,5.10c,1,65,37.7351,-83.6371
+"Out of the Dark","Sunbeam Buttress > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107506355/out-of-the-dark,2.7,-1,Sport,5.10c,1,65,37.7351,-83.6371
+"Universal Gravitation","Sunbeam Buttress > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/108144702/universal-gravitation,1.4,-1,Sport,5.10d,1,40,37.7351,-83.6371
+"Radical Evolution","Sunbeam Buttress > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107885107/radical-evolution,2.6,-1,Sport,5.11a,1,45,37.7351,-83.6371
+Predator,"Sunbeam Buttress > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106928325/predator,3.0,-1,Sport,5.11b,1,45,37.7351,-83.6371
+"Morning Sun","Sunbeam Buttress > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/108061908/morning-sun,2.5,-1,Sport,5.11b,1,50,37.7351,-83.6371
+Prey,"Sunbeam Buttress > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/108061921/prey,2.5,-1,Sport,5.11b,1,55,37.7351,-83.6371
+"The Short, Happy Life of Francis Macomber","Bibliothek > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106937694/the-short-happy-life-of-francis-macomber,2.1,-1,Sport,5.10b,1,45,37.73034,-83.64058
+"100 Years of Solitude","Bibliothek > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106937689/100-years-of-solitude,3.1,-1,Sport,5.11a,1,55,37.73034,-83.64058
+"American Psycho","Bibliothek > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/116603368/american-psycho,2.5,-1,Sport,5.11a,1,50,37.73034,-83.64058
+"A Portrait of the Artist as a Young Man","Bibliothek > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106949444/a-portrait-of-the-artist-as-a-young-man,2.9,-1,Sport,5.11b,1,69,37.73034,-83.64058
+"Resuscitation of a Hanged Man","Bibliothek > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107073651/resuscitation-of-a-hanged-man,2.4,-1,Sport,5.11b,1,65,37.73034,-83.64058
+"No Country for Old Men","Bibliothek > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107073684/no-country-for-old-men,3.0,-1,Sport,5.11b,1,65,37.73034,-83.64058
+"Tea at the Palaz of Hoon","Bibliothek > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107073717/tea-at-the-palaz-of-hoon,2.6,-1,Sport,5.11b,1,60,37.73034,-83.64058
+"Who Pooped in the Park?","Bibliothek > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107073580/who-pooped-in-the-park,2.3,-1,Sport,5.11c,1,55,37.73034,-83.64058
+"The Unbearable Lightness of Being","Bibliothek > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106937702/the-unbearable-lightness-of-being,3.2,-1,Sport,5.11c,1,70,37.73034,-83.64058
+"All The Pretty Horses","Bibliothek > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107073669/all-the-pretty-horses,2.9,-1,Sport,5.11c,1,70,37.73034,-83.64058
+"The Love Song of J. Alfred Prufrock","Bibliothek > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107073698/the-love-song-of-j-alfred-prufrock,2.5,-1,Sport,5.11c,1,65,37.73034,-83.64058
+"The Fury","Bibliothek > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/108952238/the-fury,3.5,-1,Sport,5.11c,1,70,37.73034,-83.64058
+"The Sound","Bibliothek > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/116603324/the-sound,2.0,-1,Sport,5.11c,1,70,37.73034,-83.64058
+"Everything That Rises Must Converge","Bibliothek > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107073613/everything-that-rises-must-converge,3.4,-1,Sport,5.11d,1,60,37.73034,-83.64058
+"Watering Hole","Land Before Time Wall > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107321623/watering-hole,2.3,-1,Sport,5.10a,1,60,37.72435,-83.63078
+Sabertooth,"Land Before Time Wall > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107239363/sabertooth,2.3,-1,Sport,5.10c,1,55,37.72435,-83.63078
+Sam,"Animal Crackers Wall > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107124331/sam,2.5,-1,Sport,5.10b,1,45,37.73064,-83.63911
+"Much Ado About Nothing","Animal Crackers Wall > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107124355/much-ado-about-nothing,1.0,-1,Sport,5.11c,1,45,37.73064,-83.63911
+"Retirement Day","Coyote Cliff > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/108885357/retirement-day,2.3,-1,Sport,5.10b,1,35,37.7356,-83.64148
+Bombardier,"Coyote Cliff > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107203502/bombardier,2.1,-1,Sport,5.10b,1,50,37.7356,-83.64148
+Thunderclinger,"Coyote Cliff > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107131365/thunderclinger,3.1,-1,Sport,5.10c,1,60,37.7356,-83.64148
+"Golden Box","Coyote Cliff > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107333907/golden-box,2.0,-1,Sport,5.10d,1,40,37.7356,-83.64148
+"Trundling Trolls","Coyote Cliff > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107203497/trundling-trolls,1.2,-1,Sport,5.11a,1,40,37.7356,-83.64148
+"Mum Mum","Coyote Cliff > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107203517/mum-mum,2.6,-1,Sport,5.11a,1,70,37.7356,-83.64148
+Buddhalicious,"Coyote Cliff > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107203525/buddhalicious,3.2,-1,Sport,5.11b,1,60,37.7356,-83.64148
+Renegade,"Coyote Cliff > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/108339057/renegade,3.0,-1,Trad,5.11c,1,70,37.7356,-83.64148
+"Fire and Rain","The Fire Wall > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/113861083/fire-and-rain,2.0,-1,Sport,5.10a,1,70,37.735,-83.6426
+Firestarter,"The Fire Wall > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107203553/firestarter,1.5,-1,Sport,5.11a,1,60,37.735,-83.6426
+"Driller Instinct","The Fire Wall > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107203545/driller-instinct,3.0,-1,Sport,5.11d,1,35,37.735,-83.6426
+"Waterfall Ballet","Shawnee Shelter > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107860429/waterfall-ballet,3.1,-1,Sport,5.10a,1,50,37.73488,-83.63457
+Noo-Tha,"Shawnee Shelter > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/108548047/noo-tha,2.7,-1,Sport,5.11c,1,90,37.73488,-83.63457
+"Tecumseh's Curse","Shawnee Shelter > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107860419/tecumsehs-curse,3.1,-1,Sport,5.11+,1,60,37.73488,-83.63457
+Baraka,"South Side > Muir Valley > Red River Gorge > Kentucky",https://www.mountainproject.com/route/113700305/baraka,3.0,-1,Trad,5.11b,1,25,37.72028,-83.62436
+"Rest Assured","Torrent Falls > Red River Gorge > Kentucky",https://www.mountainproject.com/route/105893133/rest-assured,2.4,-1,Sport,5.10a,1,60,37.72,-83.66294
+Reanimator,"Torrent Falls > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106937715/reanimator,2.3,-1,Sport,5.10b,1,70,37.72,-83.66294
+"Family Values","Torrent Falls > Red River Gorge > Kentucky",https://www.mountainproject.com/route/105893136/family-values,2.4,-1,Sport,5.10c,1,70,37.72,-83.66294
+"Stool Sample","Torrent Falls > Red River Gorge > Kentucky",https://www.mountainproject.com/route/108060970/stool-sample,2.3,-1,Sport,5.10c,1,45,37.72,-83.66294
+"Poopie Head","Torrent Falls > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107387489/poopie-head,2.4,-1,Sport,5.10c,1,42,37.72,-83.66294
+"Pocket Pussy","Torrent Falls > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106290243/pocket-pussy,2.7,-1,Sport,5.10d,1,50,37.72,-83.66294
+Bandolier,"Torrent Falls > Red River Gorge > Kentucky",https://www.mountainproject.com/route/105918062/bandolier,3.7,-1,Sport,5.11a,1,70,37.72,-83.66294
+Receiver,"Torrent Falls > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106309947/receiver,3.4,-1,Sport,5.11b,1,65,37.72,-83.66294
+"Ode to Poopie Head","Torrent Falls > Red River Gorge > Kentucky",https://www.mountainproject.com/route/113390957/ode-to-poopie-head,2.0,-1,Sport,5.11b,1,40,37.72,-83.66294
+"Windy corner","Torrent Falls > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106166699/windy-corner,3.8,-1,Trad,5.11b,1,100,37.72,-83.66294
+"Del Boy","Torrent Falls > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107368128/del-boy,2.3,-1,Sport,5.11b,1,70,37.72,-83.66294
+Centerfire,"Torrent Falls > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106290265/centerfire,3.8,-1,Sport,5.11c,1,80,37.72,-83.66294
+"Sex Show","Torrent Falls > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106370678/sex-show,2.6,-1,Sport,5.11c,1,50,37.72,-83.66294
+Recoil,"Torrent Falls > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106957123/recoil,3.5,-1,Sport,5.11d,1,60,37.72,-83.66294
+"Sport for Brains","Torrent Falls > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106957146/sport-for-brains,3.0,-1,Sport,5.11d,1,60,37.72,-83.66294
+"Seek The Truth","Torrent Falls > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106290282/seek-the-truth,3.6,-1,Sport,5.11d,1,50,37.72,-83.66294
+Chimp,"The Old Zoo > The Zoo > Red River Gorge > Kentucky",https://www.mountainproject.com/route/105918086/chimp,2.5,-1,Sport,5.10b,1,60,37.73387,-83.66162
+"One Brick Shy","The Old Zoo > The Zoo > Red River Gorge > Kentucky",https://www.mountainproject.com/route/105918096/one-brick-shy,2.7,-1,Sport,5.10c,1,80,37.73387,-83.66162
+Armadillo,"The Old Zoo > The Zoo > Red River Gorge > Kentucky",https://www.mountainproject.com/route/105918082/armadillo,2.6,-1,Sport,5.10d,1,70,37.73387,-83.66162
+"Jail Bird","The Old Zoo > The Zoo > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106129055/jail-bird,2.3,-1,Sport,5.10d,1,90,37.73387,-83.66162
+Edgehog,"The Old Zoo > The Zoo > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106127530/edgehog,3.0,-1,Sport,5.10d,1,60,37.73387,-83.66162
+"Monkey in the Middle","The Old Zoo > The Zoo > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106127925/monkey-in-the-middle,3.5,-1,Sport,5.11a,1,80,37.73387,-83.66162
+"Skin The Cat","The Old Zoo > The Zoo > Red River Gorge > Kentucky",https://www.mountainproject.com/route/105918091/skin-the-cat,2.6,-1,Sport,5.11a,1,80,37.73387,-83.66162
+Cannonball,"The Old Zoo > The Zoo > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106309932/cannonball,2.6,-1,Sport,5.11b,1,80,37.73387,-83.66162
+"Geezers Go Sport","The Old Zoo > The Zoo > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106127916/geezers-go-sport,3.1,-1,Sport,5.11b,1,80,37.73387,-83.66162
+"On Beyond Zebra!","The Old Zoo > The Zoo > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106579826/on-beyond-zebra,2.6,-1,Sport,5.11b,1,80,37.73387,-83.66162
+"Animal Husbandry","The Old Zoo > The Zoo > Red River Gorge > Kentucky",https://www.mountainproject.com/route/111046822/animal-husbandry,2.9,-1,Sport,5.11b,1,80,37.73387,-83.66162
+"Lynx Jinx","The Old Zoo > The Zoo > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106579832/lynx-jinx,2.9,-1,Sport,5.11c,1,50,37.73387,-83.66162
+"Barrel Full of Monkeys","The New Zoo > The Zoo > Red River Gorge > Kentucky",https://www.mountainproject.com/route/108941985/barrel-full-of-monkeys,2.5,-1,Sport,5.11a,1,80,37.73475,-83.66162
+"The Peyote Pup","The New Zoo > The Zoo > Red River Gorge > Kentucky",https://www.mountainproject.com/route/111050560/the-peyote-pup,1.6,-1,Sport,5.11b,1,60,37.73475,-83.66162
+Hippopotomoose,"The New Zoo > The Zoo > Red River Gorge > Kentucky",https://www.mountainproject.com/route/111008257/hippopotomoose,2.7,-1,Sport,5.11c,1,70,37.73475,-83.66162
+BabaBooey,"The New Zoo > The Zoo > Red River Gorge > Kentucky",https://www.mountainproject.com/route/111054034/bababooey,2.3,-1,Sport,5.11c,1,70,37.73475,-83.66162
+"Botanical Gardens","Bird Cage Sector > The Zoo > Red River Gorge > Kentucky",https://www.mountainproject.com/route/111219181/botanical-gardens,3.0,-1,Sport,5.10a,1,95,37.73488,-83.66201
+"Here Comes the Beep Beep","Bird Cage Sector > The Zoo > Red River Gorge > Kentucky",https://www.mountainproject.com/route/112798255/here-comes-the-beep-beep,3.1,-1,Sport,5.10b,1,70,37.73488,-83.66201
+"Lone Coyote","Bird Cage Sector > The Zoo > Red River Gorge > Kentucky",https://www.mountainproject.com/route/111785547/lone-coyote,1.6,-1,Sport,5.10b,1,75,37.73488,-83.66201
+"Dirty Bird","Bird Cage Sector > The Zoo > Red River Gorge > Kentucky",https://www.mountainproject.com/route/111219168/dirty-bird,2.8,-1,Sport,5.10b,1,55,37.73488,-83.66201
+"Bumpin With Bulldog","Bird Cage Sector > The Zoo > Red River Gorge > Kentucky",https://www.mountainproject.com/route/113332461/bumpin-with-bulldog,3.0,-1,Trad,5.10b,1,60,37.73488,-83.66201
+"Romance Explosion","Bird Cage Sector > The Zoo > Red River Gorge > Kentucky",https://www.mountainproject.com/route/112798104/romance-explosion,3.1,-1,Sport,5.11a,1,90,37.73488,-83.66201
+"Snake Charmer","Bird Cage Sector > The Zoo > Red River Gorge > Kentucky",https://www.mountainproject.com/route/112798114/snake-charmer,2.9,-1,Sport,5.11a,1,65,37.73488,-83.66201
+"Crimpin' Ain't Easy","Bird Cage Sector > The Zoo > Red River Gorge > Kentucky",https://www.mountainproject.com/route/112798141/crimpin-aint-easy,3.3,-1,Sport,5.11c,1,85,37.73488,-83.66201
+"Action Potential","Bird Cage Sector > The Zoo > Red River Gorge > Kentucky",https://www.mountainproject.com/route/112798234/action-potential,2.7,-1,Sport,5.11d,1,80,37.73488,-83.66201
+"Goblins in My Mind","Bird Cage Sector > The Zoo > Red River Gorge > Kentucky",https://www.mountainproject.com/route/112798288/goblins-in-my-mind,2.0,-1,Sport,5.11d,1,60,37.73488,-83.66201
+"Insanity Ceiling","Tower Rock > Red River Gorge > Kentucky",https://www.mountainproject.com/route/114274915/insanity-ceiling,3.0,-1,Trad,5.11,1,45,37.82688,-83.5954
+"The Quest","Middle Small Wall > Red River Gorge > Kentucky",https://www.mountainproject.com/route/105891504/the-quest,3.9,-1,Trad,"5.10c PG13",2,200,37.8236,-83.58889
+"Arms M. Bargo","Symphony Wall > Red River Gorge > Kentucky",https://www.mountainproject.com/route/105917872/arms-m-bargo,1.0,-1,"Trad, Aid","5.10+ C1",1,60,37.8739,-83.66673
+Boogered,"Symphony Wall > Red River Gorge > Kentucky",https://www.mountainproject.com/route/105917603/boogered,3.7,-1,Trad,5.11b,1,70,37.8739,-83.66673
+"Palm Friction","Mt. Olive Rock > Red River Gorge > Kentucky",https://www.mountainproject.com/route/114524097/palm-friction,3.0,-1,Sport,5.10a,1,65,37.62897,-83.7696
+"South Central","Mt. Olive Rock > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106385159/south-central,2.0,-1,Sport,5.11a,1,50,37.62897,-83.7696
+"South Side of the Sky","Mt. Olive Rock > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106385146/south-side-of-the-sky,3.8,-1,Trad,5.11a,1,60,37.62897,-83.7696
+"Jim's Dihedral","Indian Creek > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106962264/jims-dihedral,3.8,-1,Trad,5.10a,1,110,37.8939,-83.63681
+Fibrulator,"Indian Creek > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106404831/fibrulator,3.3,-1,Trad,5.11b,1,80,37.8939,-83.63681
+"Critical Crystal","Friction Slab > Red River Gorge > Kentucky",https://www.mountainproject.com/route/111975891/critical-crystal,1.5,-1,TR,5.11,1,20,37.75867,-83.66979
+"Decline of Western Civilization","Solar Collector/Gold Coast > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107878537/decline-of-western-civilization,2.4,-1,Sport,5.10a,1,50,37.6775,-83.73409
+"Brambly Downslide","Solar Collector/Gold Coast > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107080668/brambly-downslide,2.8,-1,Sport,5.10a,1,75,37.6775,-83.73409
+"Peer Review","Solar Collector/Gold Coast > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/113237146/peer-review,1.3,-1,Sport,5.10b,1,35,37.6775,-83.73409
+"Riptide Ride","Solar Collector/Gold Coast > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/113870208/riptide-ride,3.5,-1,Trad,5.10c,1,55,37.6775,-83.73409
+"Smoothie Nut","Solar Collector/Gold Coast > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107834516/smoothie-nut,3.2,-1,Trad,5.10c,1,60,37.6775,-83.73409
+Fubar,"Solar Collector/Gold Coast > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/110295638/fubar,3.0,-1,Trad,5.10+,1,60,37.6775,-83.73409
+"Super Pinch","Solar Collector/Gold Coast > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106588480/super-pinch,2.6,-1,Sport,5.10d,1,50,37.6775,-83.73409
+"Green Horn","Solar Collector/Gold Coast > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106707062/green-horn,2.8,-1,Sport,5.11a,1,55,37.6775,-83.73409
+"Buttsweat & Tears","Solar Collector/Gold Coast > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/113903262/buttsweat-tears,3.0,-1,Sport,5.11a,1,65,37.6775,-83.73409
+Rebar,"Solar Collector/Gold Coast > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107080870/rebar,3.6,-1,Trad,5.11a,1,65,37.6775,-83.73409
+"Mona Lisa Overdrive","Solar Collector/Gold Coast > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106925375/mona-lisa-overdrive,2.8,-1,Sport,5.11b,1,65,37.6775,-83.73409
+"Chicken Boy","Solar Collector/Gold Coast > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106925383/chicken-boy,2.3,-1,Sport,5.11b,1,70,37.6775,-83.73409
+"Amelia's Birthday","Solar Collector/Gold Coast > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/112796861/amelias-birthday,2.0,-1,Sport,5.11b,1,50,37.6775,-83.73409
+"No Fluff","Solar Collector/Gold Coast > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107055928/no-fluff,2.0,-1,Sport,5.11d,1,30,37.6775,-83.73409
+"Red Shift","Solar Collector/Gold Coast > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/112305987/red-shift,2.5,-1,Sport,5.11d,1,50,37.6775,-83.73409
+"Buddha Hole","Solar Collector/Gold Coast > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106920312/buddha-hole,3.6,-1,Sport,5.11d,1,75,37.6775,-83.73409
+"Ethics Police","Solar Collector/Gold Coast > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106920320/ethics-police,3.3,-1,Sport,5.11d,1,75,37.6775,-83.73409
+"Highway Turtle","Solar Collector/Gold Coast > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106975171/highway-turtle,2.5,-1,Sport,5.11d,1,60,37.6775,-83.73409
+"Lets get drunk and think about it","Chica Bonita Wall > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/111818759/lets-get-drunk-and-think-about-it,1.3,-1,Trad,5.10a,1,60,37.65078,-83.72161
+Raindancer,"Chica Bonita Wall > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106065295/raindancer,1.9,-1,Sport,5.10a,1,30,37.65078,-83.72161
+"Brown Eyed Girl","Chica Bonita Wall > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106065316/brown-eyed-girl,3.1,-1,Sport,5.10a,1,70,37.65078,-83.72161
+"Good Gravy","Chica Bonita Wall > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/112219423/good-gravy,2.6,-1,Sport,5.10b,1,55,37.65078,-83.72161
+"When Rats Attack","Chica Bonita Wall > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106065310/when-rats-attack,2.4,-1,Sport,5.10b,1,60,37.65078,-83.72161
+"The Spice of Life","Chica Bonita Wall > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107416223/the-spice-of-life,2.4,-1,Trad,5.10b,1,70,37.65078,-83.72161
+"Flying The Bird","Chica Bonita Wall > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107353489/flying-the-bird,2.7,-1,Sport,5.10b/c,1,50,37.65078,-83.72161
+"That's What She Said","Chica Bonita Wall > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107353405/thats-what-she-said,3.1,-1,Sport,5.10c,1,90,37.65078,-83.72161
+"Old English","Chica Bonita Wall > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/108121461/old-english,2.9,-1,Sport,5.10c,1,75,37.65078,-83.72161
+"Baby Blue Eyes","Chica Bonita Wall > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106065321/baby-blue-eyes,3.0,-1,Sport,5.10c,1,75,37.65078,-83.72161
+"Size Doesn't Matter","Chica Bonita Wall > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107353391/size-doesnt-matter,2.9,-1,Sport,5.11a,1,80,37.65078,-83.72161
+"Hot Drama Teacher","Chica Bonita Wall > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106065301/hot-drama-teacher,2.7,-1,Sport,5.11a,1,90,37.65078,-83.72161
+"I'll Take Sue","Chica Bonita Wall > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107353375/ill-take-sue,2.8,-1,Sport,5.11a/b,1,80,37.65078,-83.72161
+"She Might be a Liar","Chica Bonita Wall > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/110429182/she-might-be-a-liar,3.3,-1,Sport,5.11b,1,75,37.65078,-83.72161
+"The Dude Abides","Chica Bonita Wall > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107334440/the-dude-abides,2.5,-1,Sport,5.11c,1,65,37.65078,-83.72161
+"Tight Lipped 2","Chica Bonita Wall > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/115131758/tight-lipped-2,2.0,-1,Sport,5.11c,1,55,37.65078,-83.72161
+Bessie,"Chica Bonita Wall > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106065327/bessie,2.7,-1,Sport,5.11c,1,100,37.65078,-83.72161
+"Fresh off the Bone","Chica Bonita Wall > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/112237173/fresh-off-the-bone,2.7,-1,Sport,5.11c/d,1,65,37.65078,-83.72161
+"You Take Sally","Chica Bonita Wall > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107353365/you-take-sally,3.0,-1,Sport,5.11d,1,80,37.65078,-83.72161
+"Jungle Direct","Drive-By Crag > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/111769209/jungle-direct,2.0,-1,Trad,5.10a,1,90,37.65292,-83.72495
+"Pottsville Escarpment","Drive-By Crag > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/109481163/pottsville-escarpment,3.0,-1,Sport,5.10a,1,80,37.65292,-83.72495
+"Make  A Wish","Drive-By Crag > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106081926/make-a-wish,2.5,-1,Sport,5.10a/b,1,75,37.65292,-83.72495
+"Deeper is Better","Drive-By Crag > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/111769220/deeper-is-better,2.7,-1,Sport,5.10b,1,60,37.65292,-83.72495
+"Layback and Groove","Drive-By Crag > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/110415771/layback-and-groove,2.3,-1,Sport,5.10b,1,50,37.65292,-83.72495
+"Slick and the 9mm","Drive-By Crag > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106577353/slick-and-the-9mm,2.6,-1,Sport,5.10b,1,60,37.65292,-83.72495
+"Sojourner Truth","Drive-By Crag > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/109481550/sojourner-truth,2.3,-1,Sport,5.10,1,55,37.65292,-83.72495
+"Harshin' my Mellow","Drive-By Crag > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/109522470/harshin-my-mellow,2.0,-1,Sport,5.10c,1,60,37.65292,-83.72495
+"Breakfast Burrito","Drive-By Crag > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106081922/breakfast-burrito,3.7,-1,Sport,5.10c,1,80,37.65292,-83.72495
+"A Wave New World","Drive-By Crag > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/109714325/a-wave-new-world,2.1,-1,Sport,5.10c,1,60,37.65292,-83.72495
+"Return to Sender","Drive-By Crag > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/109612502/return-to-sender,2.0,-1,Sport,5.10c,1,65,37.65292,-83.72495
+"Fire and Brimstone","Drive-By Crag > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106081931/fire-and-brimstone,3.6,-1,Sport,5.10d,1,90,37.65292,-83.72495
+Whip-Stocking,"Drive-By Crag > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106081917/whip-stocking,3.7,-1,Sport,5.11a,1,80,37.65292,-83.72495
+"Junior's Gesture","Drive-By Crag > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/109612467/juniors-gesture,1.3,-1,Sport,5.11a,1,65,37.65292,-83.72495
+"Dangling Participle","Drive-By Crag > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/111800807/dangling-participle,2.8,-1,Sport,5.11a,1,50,37.65292,-83.72495
+"Yadda Yadda Yadda","Drive-By Crag > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106260100/yadda-yadda-yadda,2.7,-1,Sport,5.11b,1,50,37.65292,-83.72495
+"The Hanging Tree","Drive-By Crag > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/109694937/the-hanging-tree,2.3,-1,Sport,5.11b,1,65,37.65292,-83.72495
+Giblets,"Drive-By Crag > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/113705505/giblets,3.0,-1,Sport,5.11c,1,65,37.65292,-83.72495
+"Spirit Fingers","Drive-By Crag > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106081940/spirit-fingers,3.4,-1,Sport,5.11c,1,70,37.65292,-83.72495
+"Big Sinkin' Breakdown","Drive-By Crag > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/110386937/big-sinkin-breakdown,2.7,-1,Sport,5.11c,1,85,37.65292,-83.72495
+"Slut Men","Drive-By Crag > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/109644830/slut-men,1.0,-1,Sport,5.11d,1,70,37.65292,-83.72495
+"Head and Shoulders","Drive-By Crag > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106124718/head-and-shoulders,3.2,-1,Sport,5.11d,1,70,37.65292,-83.72495
+"Guilty Pleasure","Drive-By Crag > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/109717449/guilty-pleasure,3.5,-1,Sport,5.11d,1,60,37.65292,-83.72495
+"Where's JJ?","Bob Marley > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/111712886/wheres-jj,1.9,-1,Sport,5.10a,1,35,37.65194,-83.72328
+Toker,"Bob Marley > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106427242/toker,3.5,-1,Sport,5.11a,1,70,37.65194,-83.72328
+Mentee,"Bob Marley > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/116571097/mentee,-1.0,-1,Sport,5.11,1,50,37.65194,-83.72328
+"Mas Choss","Bob Marley > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/114783065/mas-choss,3.0,-1,Sport,5.11c,1,80,37.65194,-83.72328
+Crosley,"Bob Marley > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106945188/crosley,3.4,-1,Sport,5.11c,1,80,37.65194,-83.72328
+Horn,"Bob Marley > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106290540/horn,2.7,-1,Sport,5.11d,1,50,37.65194,-83.72328
+Flush,"Bob Marley > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/109477782/flush,2.0,-1,Sport,5.11d,1,50,37.65194,-83.72328
+Velvet,"Bob Marley > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106104569/velvet,3.1,-1,Sport,5.11d,1,50,37.65194,-83.72328
+"A Brief History of Climb","The Gallery > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106125070/a-brief-history-of-climb,3.7,-1,Sport,5.10b,1,75,37.65292,-83.71772
+"The King Lives On","The Gallery > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106125110/the-king-lives-on,2.6,-1,Sport,5.10b,1,80,37.65292,-83.71772
+"No Brain, No Pain","The Gallery > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/110293313/no-brain-no-pain,2.5,-1,Sport,5.10b,1,40,37.65292,-83.71772
+"All That Quivers","The Gallery > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/112832892/all-that-quivers,2.5,-1,Trad,5.10b,1,100,37.65292,-83.71772
+"Crude Awakening","The Gallery > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/111696284/crude-awakening,3.0,-1,Sport,5.10b,1,60,37.65292,-83.71772
+"Frontal Lobotomy","The Gallery > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/112802270/frontal-lobotomy,1.1,-1,Sport,5.10b,1,65,37.65292,-83.71772
+"DaVinci's Left Ear","The Gallery > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106937642/davincis-left-ear,2.6,-1,Sport,5.10b/c,1,60,37.65292,-83.71772
+Murano,"The Gallery > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106125082/murano,2.7,-1,Sport,5.10c,1,75,37.65292,-83.71772
+"Short By a Foot","The Gallery > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/111910470/short-by-a-foot,2.4,-1,Sport,5.10c,1,40,37.65292,-83.71772
+"Dain Bramage","The Gallery > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/112289843/dain-bramage,2.9,-1,Sport,5.10d,1,80,37.65292,-83.71772
+"Happy Trails","The Gallery > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106125118/happy-trails,2.6,-1,Sport,5.10d,1,80,37.65292,-83.71772
+"All Draws and No Brains","The Gallery > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/111490728/all-draws-and-no-brains,2.0,-1,Sport,5.10d,1,45,37.65292,-83.71772
+"Guernica (To first anchor)","The Gallery > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/108485824/guernica-to-first-anchor,3.2,-1,Sport,5.10d,1,65,37.65292,-83.71772
+"Johnny B. Good","The Gallery > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106154626/johnny-b-good,3.3,-1,Sport,5.11a,1,80,37.65292,-83.71772
+"Bottle Infrontome","The Gallery > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/112802279/bottle-infrontome,1.8,-1,Sport,5.11a,1,60,37.65292,-83.71772
+"The Preacher's Daughter","The Gallery > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107879859/the-preachers-daughter,3.4,-1,Sport,5.11-,1,70,37.65292,-83.71772
+"Random Precision","The Gallery > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106577204/random-precision,3.6,-1,Sport,5.11b,1,60,37.65292,-83.71772
+"Different Strokes","The Gallery > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106702950/different-strokes,3.0,-1,Sport,5.11c,1,50,37.65292,-83.71772
+"Gold Rush","The Gallery > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106980972/gold-rush,3.7,-1,Sport,5.11d,1,70,37.65292,-83.71772
+"The Haas Memorial Route","Volunteer Wall > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/114948742/the-haas-memorial-route,3.0,-1,Trad,5.10a,1,90,37.65459,-83.71673
+"Farley's Folly","Volunteer Wall > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/108096318/farleys-folly,2.2,-1,Sport,5.10a/b,1,40,37.65459,-83.71673
+"Nice To Know You","Volunteer Wall > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107089996/nice-to-know-you,2.5,-1,Sport,"5.10b PG13",1,50,37.65459,-83.71673
+"Family Tradition","Volunteer Wall > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106309585/family-tradition,2.7,-1,Sport,5.10,1,50,37.65459,-83.71673
+Generosity,"Volunteer Wall > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106969872/generosity,2.8,-1,Sport,5.10b/c,1,55,37.65459,-83.71673
+Hurt,"Volunteer Wall > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106849536/hurt,1.9,-1,Sport,5.10c,1,65,37.65459,-83.71673
+"Pinkies Extended","Volunteer Wall > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/108392096/pinkies-extended,2.6,-1,Sport,5.10c,1,75,37.65459,-83.71673
+"Tong Shing","Volunteer Wall > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106653818/tong-shing,2.7,-1,Sport,"5.10d PG13",1,55,37.65459,-83.71673
+"Normalised Bramapithecus","Volunteer Wall > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107104918/normalised-bramapithecus,3.0,-1,Sport,5.10d,1,65,37.65459,-83.71673
+"Helping Hands","Volunteer Wall > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106538985/helping-hands,2.2,-1,Sport,5.10d,1,40,37.65459,-83.71673
+"Johnny on Roofies","Volunteer Wall > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106446581/johnny-on-roofies,2.5,-1,Sport,5.11a,1,60,37.65459,-83.71673
+"Let's Boogie","Volunteer Wall > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/113715704/lets-boogie,2.4,-1,Sport,5.11a,1,50,37.65459,-83.71673
+"Same Way","Volunteer Wall > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/108434225/same-way,2.6,-1,Sport,5.11b,1,65,37.65459,-83.71673
+Donor,"Volunteer Wall > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107180674/donor,2.8,-1,Sport,5.11b,1,55,37.65459,-83.71673
+"Stephanie's Cabaret","Volunteer Wall > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/108391863/stephanies-cabaret,1.6,-1,Sport,5.11c,1,50,37.65459,-83.71673
+"Amarillo Sunset","North 40 > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106286394/amarillo-sunset,3.9,-1,Sport,5.11b,1,50,37.6523,-83.7082
+Sudoku,"Curbside > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/109641602/sudoku,2.1,-1,Sport,5.10a,1,50,37.65051,-83.71917
+"Waltz the Deal","Curbside > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/111220419/waltz-the-deal,2.2,-1,Sport,5.10a,1,50,37.65051,-83.71917
+"Action over Apathy","Curbside > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/109641623/action-over-apathy,2.1,-1,Sport,5.10b,1,60,37.65051,-83.71917
+"Single Finger Salute","Curbside > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/108400396/single-finger-salute,2.4,-1,Sport,5.10c,1,55,37.65051,-83.71917
+"Curbside No Traction","Curbside > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/111234838/curbside-no-traction,3.0,-1,Sport,5.10c,1,35,37.65051,-83.71917
+"The Second Labor of Hercules","Curbside > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106125052/the-second-labor-of-hercules,1.8,-1,Sport,5.10c/d,1,50,37.65051,-83.71917
+"Ghost in the Machine","Curbside > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106782196/ghost-in-the-machine,2.5,-1,Sport,5.10d,1,60,37.65051,-83.71917
+"Ankle Brute","Curbside > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/111608435/ankle-brute,2.3,-1,Sport,5.11a,1,35,37.65051,-83.71917
+"Subtle Thievery","Curbside > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/111758881/subtle-thievery,2.2,-1,Sport,5.11c,1,60,37.65051,-83.71917
+Conscription,"Curbside > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106782169/conscription,3.0,-1,Sport,5.11c,1,65,37.65051,-83.71917
+"Tire Swing","The Playground > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106702538/tire-swing,2.4,-1,Sport,5.10a,1,60,37.6532,-83.7146
+"Monkey Bars","The Playground > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106604790/monkey-bars,2.7,-1,Sport,5.10a,1,50,37.6532,-83.7146
+"Jungle Gym","The Playground > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106604805/jungle-gym,2.4,-1,Sport,5.10b,1,50,37.6532,-83.7146
+"Steal the Bacon","The Playground > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107059244/steal-the-bacon,2.3,-1,Sport,5.11a,1,65,37.6532,-83.7146
+"Balance Beam","The Playground > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107059260/balance-beam,3.2,-1,Sport,5.11a,1,65,37.6532,-83.7146
+"Capture the Flag","The Playground > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106604816/capture-the-flag,2.8,-1,Sport,5.11b,1,50,37.6532,-83.7146
+"Red Rover","The Playground > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107059233/red-rover,2.3,-1,Sport,5.11b,1,,37.6532,-83.7146
+"Teeter Totter","The Playground > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107059269/teeter-totter,2.8,-1,Sport,5.11c,1,80,37.6532,-83.7146
+"Crack the Whip","The Playground > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106604822/crack-the-whip,2.6,-1,Sport,5.11d,1,50,37.6532,-83.7146
+Stormtrooper,"The Dark Side > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107941233/stormtrooper,2.0,-1,Trad,"5.10a PG13",1,60,37.67874,-83.73759
+Padawan,"The Dark Side > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106324468/padawan,2.1,-1,Sport,5.10a,1,40,37.67874,-83.73759
+"It's a Trap!","The Dark Side > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107941251/its-a-trap,3.0,-1,Trad,"5.10b/c PG13",1,90,37.67874,-83.73759
+"Barn Dance","The Dark Side > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/108943392/barn-dance,2.2,-1,Sport,5.10d,1,60,37.67874,-83.73759
+"Young Jedi","The Dark Side > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107791090/young-jedi,1.9,-1,Sport,5.11b,1,60,37.67874,-83.73759
+"Count Dooku","The Dark Side > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/110429174/count-dooku,3.0,-1,Sport,5.11c,1,85,37.67874,-83.73759
+Techulicious,"The Dark Side > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107055923/techulicious,2.4,-1,Sport,5.11d,1,40,37.67874,-83.73759
+"The Gimp","Purgatory > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107903491/the-gimp,1.9,-1,Sport,5.10a,1,60,37.65343,-83.70746
+"Jumbo Shrimp","Purgatory > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107903509/jumbo-shrimp,2.0,-1,Sport,5.10a,1,50,37.65343,-83.70746
+Believer,"Purgatory > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106575856/believer,2.9,-1,Sport,5.11b,1,60,37.65343,-83.70746
+"Special Boy","Purgatory > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106584667/special-boy,2.8,-1,Sport,5.11c,1,75,37.65343,-83.70746
+"Fallen Angel","Purgatory > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/111835625/fallen-angel,3.0,-1,Trad,5.11c,1,70,37.65343,-83.70746
+"Street Fight","Shady Grove > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/108997649/street-fight,2.3,-1,Sport,5.10a,1,60,37.65431,-83.71364
+"Girls Gone Wild..WOO!","Shady Grove > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106702996/girls-gone-wildwoo,2.8,-1,Sport,5.10d,1,60,37.65431,-83.71364
+"Shaved Squirrel","Shady Grove > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/116691922/shaved-squirrel,2.0,-1,Sport,5.10d,1,60,37.65431,-83.71364
+"Citizen's Arete","Shady Grove > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106982510/citizens-arete,2.8,-1,Sport,5.11b,1,60,37.65431,-83.71364
+"Which is Which","Shady Grove > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/113440070/which-is-which,2.0,-1,Sport,5.11c,1,70,37.65431,-83.71364
+"Crucify Me","Shady Grove > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107062126/crucify-me,2.8,-1,Sport,5.11c,1,70,37.65431,-83.71364
+"Coming Out Party","Shady Grove > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106912621/coming-out-party,3.5,-1,Sport,5.11d,1,80,37.65431,-83.71364
+"Who is Who","Shady Grove > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/113237108/who-is-who,2.0,-1,Sport,5.11d,1,,37.65431,-83.71364
+"Who Knows?","Shady Grove > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/110296041/who-knows,2.0,-1,Sport,5.11d,1,70,37.65431,-83.71364
+"Spyder's Hangout","Bronaugh Wall > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/108446305/spyders-hangout,1.7,-1,Sport,5.10a,1,40,37.6538,-83.70943
+"My Mind Escapes Me","Bronaugh Wall > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/113809839/my-mind-escapes-me,2.5,-1,Sport,5.10a,1,55,37.6538,-83.70943
+Upworthy,"Bronaugh Wall > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/113236994/upworthy,1.3,-1,Sport,5.10c,1,70,37.6538,-83.70943
+"Take the Scary out of Life","Bronaugh Wall > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107180642/take-the-scary-out-of-life,2.6,-1,Sport,5.10d,1,55,37.6538,-83.70943
+Muffintop,"Bronaugh Wall > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/108397003/muffintop,2.8,-1,Sport,5.10d,1,65,37.6538,-83.70943
+"Two Women Alone","Bronaugh Wall > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106782241/two-women-alone,3.5,-1,Sport,5.11a,1,60,37.6538,-83.70943
+Nanotechnology,"Bronaugh Wall > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/111775561/nanotechnology,2.9,-1,Sport,5.11b,1,70,37.6538,-83.70943
+"Like A Turtle","Bronaugh Wall > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107180626/like-a-turtle,3.5,-1,Sport,5.11b,1,55,37.6538,-83.70943
+Jingus,"Bronaugh Wall > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106783827/jingus,3.1,-1,Sport,5.11b,1,60,37.6538,-83.70943
+"Bring Up The Bodies","Bronaugh Wall > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/116138968/bring-up-the-bodies,2.0,-1,Sport,5.11+,1,85,37.6538,-83.70943
+"Collision Damage","Bronaugh Wall > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/108195152/collision-damage,2.9,-1,Sport,5.11d,1,50,37.6538,-83.70943
+A1A,"The Crossroads > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106817338/a1a,2.7,-1,Sport,5.10a,1,50,37.67609,-83.73312
+N4,"The Crossroads > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/108725074/n4,2.1,-1,Sport,5.10c,1,40,37.67609,-83.73312
+"Fairweather Friend","The Crossroads > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/111124957/fairweather-friend,3.3,-1,Sport,5.10c,1,80,37.67609,-83.73312
+Banjolero,"The Crossroads > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107860456/banjolero,3.0,-1,Sport,5.10c,1,65,37.67609,-83.73312
+"Yell Fire!","The Crossroads > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107860443/yell-fire,3.0,-1,Sport,5.10d,1,80,37.67609,-83.73312
+"The Country Boy","The Crossroads > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/111822562/the-country-boy,2.6,-1,Sport,5.11b,1,65,37.67609,-83.73312
+"Severn Bore","The Crossroads > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/108394782/severn-bore,2.2,-1,Sport,5.11c,1,60,37.67609,-83.73312
+"Cannabis Love Generator","The Crossroads > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/108337016/cannabis-love-generator,2.9,-1,Sport,5.11c,1,50,37.67609,-83.73312
+"October Sky","The Crossroads > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107974272/october-sky,3.3,-1,Sport,5.11c,1,70,37.67609,-83.73312
+"June Bug","The Crossroads > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/108337000/june-bug,2.9,-1,Sport,5.11d,1,55,37.67609,-83.73312
+"Hippie Speed Ball","The Crossroads > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/111840375/hippie-speed-ball,2.5,-1,Sport,5.11d,1,60,37.67609,-83.73312
+"Wake and Bake","The Crossroads > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/108337049/wake-and-bake,3.0,-1,Sport,5.11d,1,55,37.67609,-83.73312
+"Thru Space and Time","Left Field > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106973595/thru-space-and-time,2.8,-1,Sport,5.10a,1,65,37.65258,-83.71563
+"Apoplectic Chick from Missouri","Left Field > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107289398/apoplectic-chick-from-missouri,2.1,-1,Sport,5.10b,1,45,37.65258,-83.71563
+Hopscotch,"Left Field > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/113834755/hopscotch,2.0,-1,Sport,5.11a,1,65,37.65258,-83.71563
+Autograph,"Left Field > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107289404/autograph,2.5,-1,Sport,5.11a,1,60,37.65258,-83.71563
+"Jack Move","Left Field > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/108078319/jack-move,1.8,-1,Sport,5.11b,1,,37.65258,-83.71563
+Bulldozer,"The Shire > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106885753/bulldozer,2.4,-1,Sport,5.10a,1,40,37.65214,-83.70995
+"Buffalo Crickets","The Shire > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/111810339/buffalo-crickets,3.0,-1,Trad,"5.10b R",1,45,37.65214,-83.70995
+"Significant Other","The Shire > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106885744/significant-other,2.0,-1,Sport,5.10b,1,40,37.65214,-83.70995
+"The G-Man","The Shire > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106885734/the-g-man,2.4,-1,Sport,5.10c,1,40,37.65214,-83.70995
+K.S.B.,"The Shire > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106885779/ksb,3.5,-1,Sport,5.10d,1,60,37.65214,-83.70995
+"My Name is Earl","The Shire > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107370652/my-name-is-earl,1.9,-1,Sport,5.11d,1,30,37.65214,-83.70995
+"Subject to Change","Far Side > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106971714/subject-to-change,3.0,-1,Sport,5.10d,1,40,37.67269,-83.73544
+Nameless,"Far Side > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/112179454/nameless,2.0,-1,Sport,5.10d,1,40,37.67269,-83.73544
+"Papa Loves Jugs","Far Side > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107567697/papa-loves-jugs,2.9,-1,Sport,5.11d,1,50,37.67269,-83.73544
+"Stem Cell","What About Bob Wall > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/108384248/stem-cell,2.8,-1,Sport,5.10a,1,55,37.65103,-83.71482
+"Weathertop Stings","What About Bob Wall > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/108384240/weathertop-stings,2.7,-1,Sport,5.10b,1,45,37.65103,-83.71482
+"No Sleep Til' Campton","What About Bob Wall > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107132484/no-sleep-til-campton,3.3,-1,Sport,5.10b/c,1,80,37.65103,-83.71482
+"The Speed of Enzo","What About Bob Wall > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/114317142/the-speed-of-enzo,2.0,-1,Sport,5.10c,1,60,37.65103,-83.71482
+"Kentucky Flu","What About Bob Wall > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107336284/kentucky-flu,2.9,-1,Sport,5.10c,1,85,37.65103,-83.71482
+"Brothel Doc","What About Bob Wall > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/109644863/brothel-doc,2.4,-1,Sport,5.11a,1,75,37.65103,-83.71482
+"Optical Rectitus","What About Bob Wall > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107622061/optical-rectitus,2.8,-1,Sport,5.11a,1,50,37.65103,-83.71482
+"Bowling Pain","What About Bob Wall > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107132510/bowling-pain,2.0,-1,Sport,5.11c,1,80,37.65103,-83.71482
+"The Phoenix","What About Bob Wall > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/116354220/the-phoenix,4.0,-1,Sport,5.11d,1,50,37.65103,-83.71482
+Monobrow,"Rival Wall > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107685747/monobrow,2.6,-1,Sport,5.10a,1,50,37.6518,-83.71274
+"Delayed Gratification","Rival Wall > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107132538/delayed-gratification,3.0,-1,Sport,5.10c,1,80,37.6518,-83.71274
+McCoy,"Rival Wall > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/110861833/mccoy,1.8,-1,Sport,5.10d,1,70,37.6518,-83.71274
+Hatfield,"Rival Wall > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107132554/hatfield,3.3,-1,Sport,5.10d,1,80,37.6518,-83.71274
+STD,"Courtesy Wall > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107551914/std,2.6,-1,Sport,5.10a,1,70,37.65193,-83.71141
+"Aural Pleasure","Courtesy Wall > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107556658/aural-pleasure,2.4,-1,Sport,5.11a,1,70,37.65193,-83.71141
+"Tweaked Unit","Courtesy Wall > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107304762/tweaked-unit,3.5,-1,Sport,5.11b,1,70,37.65193,-83.71141
+"Welcomed Guest","Courtesy Wall > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107556667/welcomed-guest,3.6,-1,Sport,5.11d,1,85,37.65193,-83.71141
+Pickpocket,"Brightside > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/108121447/pickpocket,1.2,-1,Sport,5.10d,1,50,37.67874,-83.7354
+"Sandy Malone","Brightside > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/108121451/sandy-malone,1.7,-1,Sport,5.10d,1,40,37.67874,-83.7354
+Scalawagarus,"Brightside > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107873743/scalawagarus,1.7,-1,Sport,5.11a,1,60,37.67874,-83.7354
+"Chica Loca","Brightside > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107873758/chica-loca,2.5,-1,Sport,5.11a,1,55,37.67874,-83.7354
+"Crown of Thorns","Brightside > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107941261/crown-of-thorns,3.6,-1,Sport,5.11c,1,80,37.67874,-83.7354
+"Smokin on Kesha","Brightside > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107873752/smokin-on-kesha,3.2,-1,Sport,5.11c,1,60,37.67874,-83.7354
+"Deep Fried","Brightside > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107941311/deep-fried,2.0,-1,Sport,5.11d,1,100,37.67874,-83.7354
+Tongue-punch,"Brightside > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/109582040/tongue-punch,1.4,-1,Sport,5.11d,1,55,37.67874,-83.7354
+Ultegra,"Velo Crag > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/110334638/ultegra,2.5,-1,Sport,5.10a,1,75,37.64552,-83.71831
+"The Century","Velo Crag > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/112273142/the-century,3.3,-1,Sport,5.10b/c,1,85,37.64552,-83.71831
+"Real Girls Don't Pumptrack","Velo Crag > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/112273137/real-girls-dont-pumptrack,3.1,-1,Sport,5.10c,1,70,37.64552,-83.71831
+"Lightning Rod Arete","Velo Crag > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/112216544/lightning-rod-arete,3.5,-1,Sport,5.10c/d,1,70,37.64552,-83.71831
+"Ben Franklin*","Velo Crag > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/116809066/ben-franklin,3.0,-1,Sport,5.11,1,70,37.64552,-83.71831
+"Double Century","Velo Crag > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/113839920/double-century,2.0,-1,Sport,5.11d,1,80,37.64552,-83.71831
+"Cabin Boy Fever","The Ship Yard > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/112893274/cabin-boy-fever,3.0,-1,Sport,5.11b,1,55,37.64415,-83.72205
+"Shotgun Funeral","The Mega Cave > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/113775561/shotgun-funeral,3.0,-1,Trad,5.11-,1,75,37.61729,-83.71203
+Burnout,"The Mega Cave > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/113775555/burnout,3.0,-1,Sport,5.11b/c,1,70,37.61729,-83.71203
+"Birth of a Legend","Throwback Crag > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/116703452/birth-of-a-legend,3.0,-1,Sport,5.11b/c,1,65,37.65246,-83.71932
+"Don't Call it a Comeback","Throwback Crag > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/113805508/dont-call-it-a-comeback,4.0,-1,Sport,5.11d,1,100,37.65246,-83.71932
+"Brohemian Rhapsody","The Getaway > Pendergrass-Murray Recreational Preserve (PMRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/114115539/brohemian-rhapsody,2.5,-1,Sport,5.10c,1,70,37.64525,-83.72348
+"Astro Flex","Hen's Nest Rock > Red River Gorge > Kentucky",https://www.mountainproject.com/route/111278987/astro-flex,3.2,-1,Trad,5.10a,1,40,37.8229,-83.5836
+"Close to the Edge (CLOSED)","Hen's Nest Rock > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106730381/close-to-the-edge-closed,2.5,-1,Trad,"5.10a R",1,50,37.8229,-83.5836
+"Starship Trooper","Hen's Nest Rock > Red River Gorge > Kentucky",https://www.mountainproject.com/route/111279056/starship-trooper,3.0,-1,Trad,5.10a,1,40,37.8229,-83.5836
+"Finger Lickin' Good (CLOSED)","Hen's Nest Rock > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106730366/finger-lickin-good-closed,3.7,-1,Trad,"5.10c PG13",1,50,37.8229,-83.5836
+"Jack the Ripper","Lower Sky Bridge Ridge > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106973470/jack-the-ripper,4.0,-1,Trad,5.11c,1,60,37.81912,-83.57554
+Store,"Camp Store Crag > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107388644/store,3.4,-1,Sport,5.10c,1,70,37.8119,-83.58799
+Camp,"Camp Store Crag > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107388632/camp,3.5,-1,Sport,5.11d,1,70,37.8119,-83.58799
+Stonehinge,"Lost Ridge > Red River Gorge > Kentucky",https://www.mountainproject.com/route/108544814/stonehinge,2.3,-1,Trad,5.10-,1,80,37.8994,-83.6354
+"Full Service","Lost Ridge > Red River Gorge > Kentucky",https://www.mountainproject.com/route/108544822/full-service,3.0,-1,Trad,5.10,1,80,37.8994,-83.6354
+"Wide Pride","Lost Ridge > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107845041/wide-pride,4.0,-1,Trad,5.10c,1,55,37.8994,-83.6354
+Kaiju,"Lost Ridge > Red River Gorge > Kentucky",https://www.mountainproject.com/route/108544808/kaiju,4.0,-1,Trad,5.11-,1,100,37.8994,-83.6354
+"Trailer Trashed","Beer Trailer Crag > Red River Gorge > Kentucky",https://www.mountainproject.com/route/108086116/trailer-trashed,2.5,-1,Trad,5.10+,1,60,37.71511,-83.66665
+"Summer Shandy","Beer Trailer Crag > Red River Gorge > Kentucky",https://www.mountainproject.com/route/112827796/summer-shandy,2.5,-1,Trad,5.10d,1,60,37.71511,-83.66665
+"Simpler Times","Beer Trailer Crag > Red River Gorge > Kentucky",https://www.mountainproject.com/route/116691988/simpler-times,2.5,-1,Sport,5.11b,1,60,37.71511,-83.66665
+"Fake ID","Beer Trailer Crag > Red River Gorge > Kentucky",https://www.mountainproject.com/route/113642598/fake-id,2.8,-1,Sport,5.11c,1,50,37.71511,-83.66665
+"Korsakoff Syndrome","Beer Trailer Crag > Red River Gorge > Kentucky",https://www.mountainproject.com/route/112162687/korsakoff-syndrome,2.4,-1,Sport,5.11c,1,60,37.71511,-83.66665
+Beer-Thirty,"Beer Trailer Crag > Red River Gorge > Kentucky",https://www.mountainproject.com/route/111591136/beer-thirty,2.5,-1,Sport,5.11d,1,65,37.71511,-83.66665
+Oberon,"Moonshiner's Wall > Red River Gorge > Kentucky",https://www.mountainproject.com/route/108168983/oberon,3.9,-1,Trad,5.10b,1,65,37.82144,-83.57378
+"The Beeneling","Dunkan Rock > Red River Gorge > Kentucky",https://www.mountainproject.com/route/113327074/the-beeneling,3.7,-1,Trad,5.10b,1,80,37.84626,-83.64173
+"What's Left of the Beeneling","Dunkan Rock > Red River Gorge > Kentucky",https://www.mountainproject.com/route/108438115/whats-left-of-the-beeneling,4.0,-1,Trad,5.10c,1,80,37.84626,-83.64173
+"Negative Energy","Tunnel Wall > Red River Gorge > Kentucky",https://www.mountainproject.com/route/109007452/negative-energy,3.0,-1,Trad,5.11a,1,40,37.81736,-83.67509
+"Typhoid Mary","The Infirmary > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/111229014/typhoid-mary,2.1,-1,Sport,5.10a,1,65,37.64193,-83.68332
+"Vitamin C","The Infirmary > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/116240518/vitamin-c,2.9,-1,Sport,5.10a,1,55,37.64193,-83.68332
+"Aquagenic Urticaria","The Infirmary > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/110400283/aquagenic-urticaria,1.8,-1,Sport,5.10b,1,45,37.64193,-83.68332
+"Recovery Room","The Infirmary > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/110400293/recovery-room,2.9,-1,Sport,5.10b,1,60,37.64193,-83.68332
+98.6,"The Infirmary > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/113916838/986,1.5,-1,Sport,5.10c,1,65,37.64193,-83.68332
+Zoonotic,"The Infirmary > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/111228967/zoonotic,2.1,-1,Sport,5.10d,1,50,37.64193,-83.68332
+Pre-Op,"The Infirmary > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/111229056/pre-op,2.6,-1,Sport,5.10d,1,45,37.64193,-83.68332
+Porphyria,"The Infirmary > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/110400270/porphyria,3.0,-1,Sport,5.11a,1,60,37.64193,-83.68332
+"On Bended Knee","The Infirmary > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/112819003/on-bended-knee,2.8,-1,Sport,5.11a,1,60,37.64193,-83.68332
+"Family History","The Infirmary > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/111228846/family-history,2.9,-1,Sport,5.11a,1,,37.64193,-83.68332
+"L.A. Branch Office","The Infirmary > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/112410569/la-branch-office,2.0,-1,Sport,5.11a,1,65,37.64193,-83.68332
+Bipolar,"The Infirmary > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/112207234/bipolar,2.6,-1,Sport,5.11b,1,55,37.64193,-83.68332
+"Magic Bed","The Infirmary > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/110231621/magic-bed,3.0,-1,Sport,5.11b/c,1,70,37.64193,-83.68332
+"Phantom Pain","The Infirmary > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/110231668/phantom-pain,2.8,-1,Sport,5.11c,1,70,37.64193,-83.68332
+"Brachial Plexus","The Infirmary > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/111170541/brachial-plexus,3.5,-1,Sport,5.11c,1,80,37.64193,-83.68332
+"Push Present","The Infirmary > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/111324974/push-present,3.0,-1,Sport,5.11d,1,80,37.64193,-83.68332
+Trephination,"The Infirmary > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/111311299/trephination,3.5,-1,Sport,5.11d,1,85,37.64193,-83.68332
+"Lithuanian Princess","Chaos > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/110334995/lithuanian-princess,2.9,-1,Sport,5.10a,1,40,37.64193,-83.68041
+"Teacher's Pet","Chaos > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/110335013/teachers-pet,2.0,-1,Trad,5.10b,1,30,37.64193,-83.68041
+Slabalicious,"Chaos > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/111734978/slabalicious,2.5,-1,Sport,5.10c,1,25,37.64193,-83.68041
+"Die with a Blessing","Chaos > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/110367208/die-with-a-blessing,2.7,-1,Sport,5.10d,1,50,37.64193,-83.68041
+"Spider Monkey","Chaos > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/111792332/spider-monkey,2.7,-1,Sport,5.11b,1,45,37.64193,-83.68041
+"Left Coast","Chaos > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/110889557/left-coast,2.0,-1,Sport,5.11c,1,60,37.64193,-83.68041
+"Mary Anne","Chaos > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/112268660/mary-anne,2.5,-1,Sport,5.11c,1,70,37.64193,-83.68041
+Going Away Party,"Secret Garden > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/112222782/going-away-party,2.8,-1,Sport,"5.10a PG13",1,60,37.64036,-83.67556
+"The Net","Secret Garden > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/116564593/the-net,-1.0,-1,Sport,5.10a,1,55,37.64036,-83.67556
+ae911truth.org,"Secret Garden > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/111042582/ae911truthorg,2.0,-1,Sport,5.10b,1,60,37.64036,-83.67556
+"Cock to the Rock","Secret Garden > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/111042603/cock-to-the-rock,2.4,-1,Sport,5.10b,1,70,37.64036,-83.67556
+Rethink911.org,"Secret Garden > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/111085175/rethink911org,2.1,-1,Sport,5.10b,1,55,37.64036,-83.67556
+Rememberbuilding7.org,"Secret Garden > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/111085182/rememberbuilding7org,2.1,-1,Sport,5.10b,1,55,37.64036,-83.67556
+"Controlled Demolition","Secret Garden > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/111839686/controlled-demolition,2.0,-1,Sport,5.10b,1,45,37.64036,-83.67556
+"Leech Line","Secret Garden > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/110529391/leech-line,2.0,-1,Trad,5.10,1,75,37.64036,-83.67556
+Flashback,"Secret Garden > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/110429220/flashback,3.6,-1,Trad,5.10c,1,80,37.64036,-83.67556
+"Heavy Flow","Secret Garden > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/110429202/heavy-flow,1.8,-1,Trad,5.10+,1,60,37.64036,-83.67556
+"Sloppy Seconds","Secret Garden > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/110529834/sloppy-seconds,3.4,-1,Sport,5.11a,1,80,37.64036,-83.67556
+"Linear Regression","Secret Garden > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/111085112/linear-regression,3.4,-1,Sport,5.11a,1,85,37.64036,-83.67556
+"American Juggalo","Secret Garden > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/113828991/american-juggalo,3.0,-1,Sport,5.11a,1,50,37.64036,-83.67556
+patriotsquestion911.com,"Secret Garden > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/113551532/patriotsquestion911com,2.7,-1,Sport,5.11a,1,50,37.64036,-83.67556
+Spork,"Secret Garden > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/110529796/spork,3.0,-1,Trad,5.11b,1,70,37.64036,-83.67556
+"So What?","Secret Garden > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/111042616/so-what,2.6,-1,Sport,5.11b,1,65,37.64036,-83.67556
+"Red Devil","Secret Garden > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/111085138/red-devil,3.1,-1,Sport,5.11b,1,85,37.64036,-83.67556
+"Little T","Secret Garden > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/111085166/little-t,2.8,-1,Sport,5.11b,1,50,37.64036,-83.67556
+"Feeding Frenzy","Secret Garden > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/113801424/feeding-frenzy,3.0,-1,Trad,5.11b,1,,37.64036,-83.67556
+"Stinky Johnny's","Secret Garden > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/111680983/stinky-johnnys,2.7,-1,Sport,5.11b,1,65,37.64036,-83.67556
+"Bees in the Trap","Secret Garden > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/110529445/bees-in-the-trap,3.1,-1,Sport,5.11d,1,80,37.64036,-83.67556
+"Linny Lu","Serenity Point > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/110367190/linny-lu,2.2,-1,Sport,5.10a,1,55,37.64136,-83.68044
+"Dancing Queen","Serenity Point > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/110367173/dancing-queen,1.7,-1,Sport,5.10b,1,60,37.64136,-83.68044
+"Dirty Habit","Serenity Point > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/110356284/dirty-habit,2.5,-1,Sport,5.10d,1,80,37.64136,-83.68044
+Sundial,"Serenity Point > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/111688212/sundial,3.6,-1,Sport,5.11a,1,90,37.64136,-83.68044
+Malignant,"Serenity Point > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/110367048/malignant,2.4,-1,Sport,5.11a,1,90,37.64136,-83.68044
+BCL,"Serenity Point > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/112886782/bcl,2.3,-1,Sport,5.11a,1,50,37.64136,-83.68044
+"Hammer Time","Serenity Point > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/110356289/hammer-time,3.6,-1,Sport,5.11b,1,70,37.64136,-83.68044
+"Rising Hegemon","Serenity Point > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/110356301/rising-hegemon,2.8,-1,Sport,5.11b,1,65,37.64136,-83.68044
+"Return of the Mohan","Serenity Point > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/110356296/return-of-the-mohan,3.3,-1,Sport,5.11d,1,55,37.64136,-83.68044
+"Fruit of the Loin","Fruit Wall > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/111157133/fruit-of-the-loin,2.6,-1,Trad,5.10a,1,60,37.64504,-83.67849
+"Slice of Spice","Fruit Wall > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/111157156/slice-of-spice,3.0,-1,Trad,5.10a,1,50,37.64504,-83.67849
+"Strawberry Fields","Fruit Wall > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/112220398/strawberry-fields,2.8,-1,Sport,5.10b,1,50,37.64504,-83.67849
+"Jew Jew Fruit","Fruit Wall > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/110889566/jew-jew-fruit,3.6,-1,Sport,5.10c,1,75,37.64504,-83.67849
+"Heath Ledger","Fruit Wall > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/113749671/heath-ledger,3.0,-1,Sport,"5.10c R",1,80,37.64504,-83.67849
+"Lichen Lessons","Fruit Wall > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/111156968/lichen-lessons,2.1,-1,Sport,5.10c,1,60,37.64504,-83.67849
+"Hourglass Crack","Fruit Wall > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/112812121/hourglass-crack,3.7,-1,Trad,5.10d,1,100,37.64504,-83.67849
+"Mellon Baller","Fruit Wall > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/110523573/mellon-baller,2.3,-1,Sport,5.10d,1,60,37.64504,-83.67849
+"Peach Fuzz","Fruit Wall > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/110968902/peach-fuzz,2.9,-1,Sport,5.11b,1,50,37.64504,-83.67849
+"Lucy in the Sky","Fruit Wall > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/116650059/lucy-in-the-sky,1.8,-1,Sport,5.11b,1,90,37.64504,-83.67849
+"Witness the Citrus","Fruit Wall > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/110356279/witness-the-citrus,4.0,-1,Sport,5.11c,1,95,37.64504,-83.67849
+"Just Peachy Mon","Fruit Wall > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/110522765/just-peachy-mon,3.1,-1,Sport,5.11c,1,60,37.64504,-83.67849
+"Breakfast at Koops","Fruit Wall > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/110969006/breakfast-at-koops,3.6,-1,Sport,5.11d,1,65,37.64504,-83.67849
+"Adrenergic Half-Life","Monastery > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/116588364/adrenergic-half-life,2.0,-1,Trad,"5.10a PG13",1,80,37.64121,-83.67611
+"Sugar Pad","Monastery > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/113834047/sugar-pad,2.0,-1,Sport,5.10b,1,40,37.64121,-83.67611
+Thelonius,"Monastery > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/113172049/thelonius,1.7,-1,Sport,5.10b,1,55,37.64121,-83.67611
+"Pickled Pig's Feet","Monastery > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/110523763/pickled-pigs-feet,2.3,-1,Sport,5.10b,1,50,37.64121,-83.67611
+Narcissus,"Monastery > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/116592588/narcissus,2.0,-1,Sport,5.10b,1,40,37.64121,-83.67611
+"Twist your Hip and do the Dip","Monastery > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/110523611/twist-your-hip-and-do-the-dip,2.0,-1,Sport,5.10b,1,35,37.64121,-83.67611
+Goldmund,"Monastery > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/116564539/goldmund,-1.0,-1,Sport,5.10d,1,70,37.64121,-83.67611
+"Monks Brew","Monastery > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/110521185/monks-brew,2.7,-1,Sport,5.10d,1,50,37.64121,-83.67611
+SNUG,"Monastery > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/112222419/snug,1.5,-1,Sport,5.10d,1,50,37.64121,-83.67611
+"Lucifer's Unicycle","Monastery > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/116592632/lucifers-unicycle,3.0,-1,Trad,5.10d,1,60,37.64121,-83.67611
+"Arete Syndrome","Monastery > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/113172005/arete-syndrome,2.3,-1,Sport,5.11a,1,55,37.64121,-83.67611
+"Lounge Lizard","Monastery > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/110522743/lounge-lizard,2.7,-1,Sport,5.11b,1,60,37.64121,-83.67611
+"Monk in the Middle","Monastery > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/113171966/monk-in-the-middle,1.8,-1,Sport,5.11b,1,60,37.64121,-83.67611
+"Mission Creep","Monastery > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/116636655/mission-creep,3.0,-1,Sport,5.11c,1,60,37.64121,-83.67611
+"Barking Dogmas","Monastery > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/110430004/barking-dogmas,3.4,-1,Sport,5.11+,1,60,37.64121,-83.67611
+"End of State Maintenance","The Nursery > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/110534032/end-of-state-maintenance,2.8,-1,Sport,5.10a,1,50,37.65088,-83.67849
+"Rash Decision","The Nursery > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/116503460/rash-decision,2.0,-1,Sport,5.11b,1,50,37.65088,-83.67849
+"Fifth of November","The Nursery > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/116503440/fifth-of-november,2.0,-1,Sport,5.11d,1,55,37.65088,-83.67849
+"Solomon Grundy","The Nursery > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/110806711/solomon-grundy,2.7,-1,Sport,5.11d,1,50,37.65088,-83.67849
+"Call Me Maybe","The Record Shop > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/110620474/call-me-maybe,3.5,-1,Sport,5.10a,1,80,37.64753,-83.68238
+"Bitches Brew","The Record Shop > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/110620484/bitches-brew,3.7,-1,Trad,5.10a,1,80,37.64753,-83.68238
+"Pet Sounds","The Record Shop > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/110620444/pet-sounds,3.0,-1,Sport,5.10b,1,75,37.64753,-83.68238
+TNT,"The Record Shop > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/111857139/tnt,1.0,-1,Sport,5.11,1,50,37.64753,-83.68238
+"Fly By Night","The Record Shop > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/111026945/fly-by-night,3.8,-1,Sport,5.11c,1,70,37.64753,-83.68238
+"Cowboys From Hell","The Record Shop > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/111027061/cowboys-from-hell,3.0,-1,Sport,5.11c,1,40,37.64753,-83.68238
+"Harmony in Ultraviolet","The Record Shop > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/112316547/harmony-in-ultraviolet,2.8,-1,Sport,5.11c,1,80,37.64753,-83.68238
+"Hitch a Ride","The Record Shop > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/112268685/hitch-a-ride,2.3,-1,Sport,5.11c,1,70,37.64753,-83.68238
+Fluffer,"Deep End > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/110849897/fluffer,2.8,-1,Sport,5.10a,1,70,37.63986,-83.68327
+"Pool Boy","Deep End > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/110849887/pool-boy,2.9,-1,Sport,5.10b,1,80,37.63986,-83.68327
+"The Cough","Deep End > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/111170530/the-cough,2.0,-1,Sport,5.10c,1,50,37.63986,-83.68327
+Lichenosis,"Deep End > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/111808649/lichenosis,1.8,-1,Sport,5.11a,1,65,37.63986,-83.68327
+"Half Mast","Deep End > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/110849905/half-mast,3.0,-1,Sport,5.11b,1,50,37.63986,-83.68327
+"Natural Ice","Deep End > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/111808663/natural-ice,2.5,-1,Sport,5.11b,1,65,37.63986,-83.68327
+"Time Wrinkle","The Portal > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/112311069/time-wrinkle,2.9,-1,Sport,5.10c,1,45,37.64698,-83.67826
+"Barefoot Barrista","The Portal > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/112311088/barefoot-barrista,2.0,-1,Sport,5.10c,1,45,37.64698,-83.67826
+Tesseract,"The Portal > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/110969192/tesseract,3.4,-1,Sport,5.10d,1,55,37.64698,-83.67826
+8133,"The Portal > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/110969237/8133,3.4,-1,Sport,5.11d,1,70,37.64698,-83.67826
+"Last Gasp","The Morgue > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/116139494/last-gasp,1.5,-1,Sport,"5.10c PG13",1,95,37.64723,-83.68076
+Y-Incision,"The Morgue > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/111857273/y-incision,2.0,-1,Sport,5.11b,1,50,37.64723,-83.68076
+"Toxicology Report","The Morgue > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/111857291/toxicology-report,2.0,-1,Sport,5.11d,1,45,37.64723,-83.68076
+"Grain of Salt","Coopers Cove > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/111088853/grain-of-salt,1.5,-1,Sport,5.10c,1,50,37.64138,-83.68193
+"Road Kill","Coopers Cove > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/111088926/road-kill,3.0,-1,Sport,5.10c/d,1,60,37.64138,-83.68193
+"Grab n' Go","Coopers Cove > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/111088964/grab-n-go,3.2,-1,Sport,5.10d,1,60,37.64138,-83.68193
+"Where the Sidewalk Ends","Coopers Cove > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/111220101/where-the-sidewalk-ends,2.7,-1,Sport,5.10d,1,60,37.64138,-83.68193
+"Grundle Bundle","Coopers Cove > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/112254637/grundle-bundle,2.6,-1,Sport,5.10d,1,60,37.64138,-83.68193
+"Diesel Therapy","Coopers Cove > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/111220240/diesel-therapy,2.6,-1,Sport,5.11a,1,60,37.64138,-83.68193
+"Shake Down","Coopers Cove > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/111088883/shake-down,3.0,-1,Sport,5.11a,1,60,37.64138,-83.68193
+"The Hustle","Coopers Cove > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/111170581/the-hustle,3.4,-1,Sport,5.11b,1,65,37.64138,-83.68193
+"Pure Pleasure","Coopers Cove > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/111688258/pure-pleasure,3.2,-1,Sport,5.11b,1,80,37.64138,-83.68193
+"Poop Dolla!!","Coopers Cove > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/111089107/poop-dolla,2.5,-1,Sport,5.11b,1,55,37.64138,-83.68193
+"Bay Harbor Butcher","Coopers Cove > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/112254689/bay-harbor-butcher,2.3,-1,Sport,5.11b,1,65,37.64138,-83.68193
+"Self Medication","Coopers Cove > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/112400151/self-medication,2.6,-1,Sport,5.11b/c,1,40,37.64138,-83.68193
+Addiction,"Coopers Cove > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/111790156/addiction,3.6,-1,Sport,5.11c,1,60,37.64138,-83.68193
+"Gas Huffer","Coopers Cove > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/112254560/gas-huffer,3.0,-1,Sport,5.11c,1,60,37.64138,-83.68193
+"Work Therapy","Coopers Cove > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/111790186/work-therapy,2.3,-1,Sport,5.11c,1,60,37.64138,-83.68193
+"Russian Body Thief","Coopers Cove > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/112254699/russian-body-thief,2.0,-1,Sport,5.11c,1,55,37.64138,-83.68193
+"Pet Cemetery","Graveyard > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/114466369/pet-cemetery,2.0,-1,Sport,5.11c,1,60,37.64631,-83.68032
+"Altered State","Graveyard > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/111554737/altered-state,4.0,-1,Trad,"5.11c PG13",1,90,37.64631,-83.68032
+"Rough Around the Edges","Cloud 9 > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/113229685/rough-around-the-edges,0.7,-1,Sport,"5.10a/b PG13",1,35,37.64255,-83.68534
+Liftoff,"Cloud 9 > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/113229572/liftoff,2.2,-1,Sport,5.10c,1,80,37.64255,-83.68534
+"Flour Dust and Pizza Crust","Cloud 9 > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/111355472/flour-dust-and-pizza-crust,3.0,-1,Sport,5.11c,1,70,37.64255,-83.68534
+"Stratus Fear","Cloud 9 > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/111355461/stratus-fear,3.8,-1,Sport,5.11d,1,72,37.64255,-83.68534
+"Crazy Train","Cloud 9 > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/113229646/crazy-train,2.5,-1,Sport,5.11d,1,85,37.64255,-83.68534
+"Cloudy with a Chance of Seamen","Cloud 9 > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/113229427/cloudy-with-a-chance-of-seamen,3.6,-1,Sport,5.11d,1,65,37.64255,-83.68534
+"Jizzy Gillespie","Cloud 9 > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/113229493/jizzy-gillespie,2.5,-1,Sport,5.11d,1,70,37.64255,-83.68534
+"Elevator Pitch","Corner Pocket > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/111842337/elevator-pitch,3.4,-1,Sport,5.10a,1,80,37.64509,-83.67551
+Histoplasmosis,"Corner Pocket > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/113936205/histoplasmosis,3.0,-1,Trad,5.10c,2,,37.64509,-83.67551
+Dayglo-a-Go-Go,"Corner Pocket > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/116103986/dayglo-a-go-go,3.5,-1,Trad,5.10d,1,80,37.64509,-83.67551
+"Friends Fun Life","Corner Pocket > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/115392219/friends-fun-life,2.0,-1,Sport,5.10d,1,80,37.64509,-83.67551
+"Geller""s Spoon","Corner Pocket > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/113936157/gellers-spoon,2.0,-1,Sport,5.11a,1,100,37.64509,-83.67551
+"Capsaicin Sea","Corner Pocket > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/113936132/capsaicin-sea,2.5,-1,Sport,5.11b,1,105,37.64509,-83.67551
+Symbiosis,"Corner Pocket > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/111842346/symbiosis,3.5,-1,Trad,5.11b,1,90,37.64509,-83.67551
+Bookworm,"Corner Pocket > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/114278969/bookworm,3.0,-1,Trad,5.11b,2,100,37.64509,-83.67551
+"Old Growth","Corner Pocket > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/114506696/old-growth,2.0,-1,Sport,5.11b,1,45,37.64509,-83.67551
+"Chasing Butterflies","The Pharmacy > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/111842368/chasing-butterflies,2.0,-1,Sport,5.10b,1,70,37.6457,-83.67611
+"Young Flakenstein","The Laboratory > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/114230119/young-flakenstein,2.0,-1,Sport,5.11b,1,60,37.64461,-83.68018
+Re-animator,"The Laboratory > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/116170608/re-animator,3.0,-1,Sport,5.11b,1,80,37.64461,-83.68018
+"Nikola Tesla","The Laboratory > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/114230128/nikola-tesla,2.5,-1,Sport,5.11c,1,70,37.64461,-83.68018
+"Western Blot","The Laboratory > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/112295917/western-blot,4.0,-1,Sport,5.11d,1,80,37.64461,-83.68018
+Castaway,"Real Deep End > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/111998022/castaway,3.2,-1,Sport,5.10a,1,65,37.64069,-83.6855
+"Poop Chute","Real Deep End > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/111998042/poop-chute,1.8,-1,Sport,5.10a,1,65,37.64069,-83.6855
+"Turd Burglar","Real Deep End > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/111998049/turd-burglar,1.7,-1,Sport,5.10b,1,65,37.64069,-83.6855
+Tenoshitlan,"Real Deep End > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/112293354/tenoshitlan,3.0,-1,Sport,5.11b,1,80,37.64069,-83.6855
+"Red Means Go","Real Deep End > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/112293379/red-means-go,3.7,-1,Sport,5.11c,1,73,37.64069,-83.6855
+"Valsalva Maneuver","Real Deep End > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/113409609/valsalva-maneuver,2.0,-1,Sport,5.11c,1,60,37.64069,-83.6855
+"Man with a Wooden Leg","Alcatraz > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/112279264/man-with-a-wooden-leg,2.7,-1,Sport,5.10d,1,70,37.64264,-83.68139
+"Dope on a Rope","Alcatraz > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/112279617/dope-on-a-rope,2.6,-1,Sport,5.11b,1,70,37.64264,-83.68139
+Birdman,"Alcatraz > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/112280092/birdman,3.0,-1,Sport,5.11c,1,70,37.64264,-83.68139
+"Fatal Vision","Alcatraz > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/112279994/fatal-vision,3.8,-1,Sport,5.11c,1,85,37.64264,-83.68139
+Chopped,"Sanitarium > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/116352746/chopped,2.0,-1,Sport,5.10a,1,70,37.65258,-83.68137
+"Short List","Sanitarium > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/116352731/short-list,3.0,-1,Sport,5.10b,1,50,37.65258,-83.68137
+"Road to Debauchery","Sanitarium > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/114225976/road-to-debauchery,3.0,-1,Sport,5.10c,1,50,37.65258,-83.68137
+Bailey,"Sanitarium > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/116353952/bailey,3.5,-1,Sport,5.10c,1,90,37.65258,-83.68137
+Sting,"Sanitarium > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/114225988/sting,3.0,-1,Sport,5.10d,1,65,37.65258,-83.68137
+Chossfit,"Sanitarium > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/116352719/chossfit,3.0,-1,Sport,5.10d,1,50,37.65258,-83.68137
+"Victory Sip","Sanitarium > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/113699334/victory-sip,3.7,-1,Sport,5.11a,1,75,37.65258,-83.68137
+"Humpty Dumpty","Sanitarium > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/116353904/humpty-dumpty,3.0,-1,Sport,5.11a,1,80,37.65258,-83.68137
+Urushiol,"Sanitarium > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/112420158/urushiol,3.0,-1,Sport,5.11b,1,75,37.65258,-83.68137
+"The Juggler","Sanitarium > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/116353897/the-juggler,3.0,-1,Sport,5.11b,1,80,37.65258,-83.68137
+"The Upside Down","Sanitarium > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/113828832/the-upside-down,3.0,-1,Sport,5.11,1,70,37.65258,-83.68137
+Barnum,"Sanitarium > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/116353955/barnum,2.0,-1,Sport,5.11c,1,85,37.65258,-83.68137
+"Kircus Act","Sanitarium > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/116354129/kircus-act,4.0,-1,Sport,5.11d,1,90,37.65258,-83.68137
+"Halphabet Soup for the Soul","The Hal Garner Memorial Crag > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/113605680/halphabet-soup-for-the-soul,1.0,-1,Sport,5.10b,1,70,37.63921,-83.67877
+"What the Hal?","The Hal Garner Memorial Crag > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/113802336/what-the-hal,2.0,-1,Sport,5.11b,1,40,37.63921,-83.67877
+"Flowers for Halgernon","The Hal Garner Memorial Crag > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/116357093/flowers-for-halgernon,3.0,-1,Sport,5.11b,1,55,37.63921,-83.67877
+"Ham and Jam and Spam","Camelot > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/114530372/ham-and-jam-and-spam,2.6,-1,Sport,5.10a,1,50,37.64911,-83.67518
+"Lady of the Lake","Camelot > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/114530409/lady-of-the-lake,2.9,-1,Sport,5.10a,1,45,37.64911,-83.67518
+"She's a Witch","Camelot > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/114530413/shes-a-witch,2.8,-1,Sport,5.10a,1,45,37.64911,-83.67518
+"Roger the Shrubber","Camelot > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/114530470/roger-the-shrubber,2.3,-1,Sport,5.10a,1,40,37.64911,-83.67518
+"Brave Sir Robin","Camelot > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/114530331/brave-sir-robin,2.7,-1,Sport,5.10b,1,45,37.64911,-83.67518
+"The Enchanter","Camelot > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/114530388/the-enchanter,2.2,-1,Sport,5.10c/d,1,30,37.64911,-83.67518
+"Holy Grail","Camelot > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/114530429/holy-grail,3.2,-1,Sport,5.10d,1,65,37.64911,-83.67518
+"A Herring","Camelot > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/114530466/a-herring,1.8,-1,Sport,5.10d,1,40,37.64911,-83.67518
+"Ecki Ptang Zoom Boing","Camelot > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/114530451/ecki-ptang-zoom-boing,2.5,-1,Sport,5.11b,1,45,37.64911,-83.67518
+"The Knights who say B","Camelot > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/114530460/the-knights-who-say-b,2.8,-1,Sport,5.11b,1,45,37.64911,-83.67518
+"Kilt or Be Kilt","Scotch Wall > Miller Fork Recreational Preserve (MFRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/116654724/kilt-or-be-kilt,3.0,-1,Sport,5.10d,1,70,37.64758,-83.67575
+"The Ole Switcharoo","The Kentucky Wall > Red River Gorge > Kentucky",https://www.mountainproject.com/route/112885284/the-ole-switcharoo,2.0,-1,Trad,5.10a,1,80,37.89425,-83.65755
+"Stay Tight","The Kentucky Wall > Red River Gorge > Kentucky",https://www.mountainproject.com/route/112885397/stay-tight,4.0,-1,Trad,5.10,1,90,37.89425,-83.65755
+"Blowing Your Lobe","The Kentucky Wall > Red River Gorge > Kentucky",https://www.mountainproject.com/route/112885346/blowing-your-lobe,3.0,-1,Trad,5.11,1,80,37.89425,-83.65755
+"Polar Opposites","The Kentucky Wall > Red River Gorge > Kentucky",https://www.mountainproject.com/route/112885307/polar-opposites,4.0,-1,Trad,5.11+,1,80,37.89425,-83.65755
+"The Cream Machine","(1) Buckeye Buttress > The Motherlode > Bald Rock Recreational Preserve (BRRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/111312748/the-cream-machine,1.0,-1,Sport,"5.10b PG13",1,60,37.64704,-83.71348
+Leftomaniac,"(1) Buckeye Buttress > The Motherlode > Bald Rock Recreational Preserve (BRRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/110343233/leftomaniac,2.1,-1,Sport,5.11b,1,70,37.64704,-83.71348
+"Trad Sucker","(1) Buckeye Buttress > The Motherlode > Bald Rock Recreational Preserve (BRRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106164148/trad-sucker,2.5,-1,Sport,5.11b,1,40,37.64704,-83.71348
+Twisted,"(1) Buckeye Buttress > The Motherlode > Bald Rock Recreational Preserve (BRRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106969274/twisted,2.4,-1,Sport,5.11b,1,50,37.64704,-83.71348
+"One-Eyed Willy Up the Back","(1) Buckeye Buttress > The Motherlode > Bald Rock Recreational Preserve (BRRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107195921/one-eyed-willy-up-the-back,1.9,-1,Sport,5.11c,1,50,37.64704,-83.71348
+"Rug Muncher","(1) Buckeye Buttress > The Motherlode > Bald Rock Recreational Preserve (BRRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/111378920/rug-muncher,2.3,-1,Sport,5.11d,1,50,37.64704,-83.71348
+Ben,"(2) Warm-Up Wall > The Motherlode > Bald Rock Recreational Preserve (BRRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107934642/ben,2.2,-1,Sport,5.11a,1,60,37.64722,-83.71305
+"Injured Reserve","(2) Warm-Up Wall > The Motherlode > Bald Rock Recreational Preserve (BRRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106484453/injured-reserve,2.6,-1,Sport,5.11a,1,60,37.64722,-83.71305
+Laura,"(2) Warm-Up Wall > The Motherlode > Bald Rock Recreational Preserve (BRRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107899800/laura,2.2,-1,Sport,5.11-,1,70,37.64722,-83.71305
+"Trust in Jesus","(2) Warm-Up Wall > The Motherlode > Bald Rock Recreational Preserve (BRRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106577231/trust-in-jesus,2.8,-1,Sport,5.11b,1,50,37.64722,-83.71305
+KAPOW!,"(2) Warm-Up Wall > The Motherlode > Bald Rock Recreational Preserve (BRRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/116692489/kapow,2.0,-1,Sport,5.11c,1,40,37.64722,-83.71305
+"Breathe Right","(2) Warm-Up Wall > The Motherlode > Bald Rock Recreational Preserve (BRRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106975155/breathe-right,2.6,-1,Sport,5.11c,1,60,37.64722,-83.71305
+"All In","(2) Warm-Up Wall > The Motherlode > Bald Rock Recreational Preserve (BRRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/111085447/all-in,2.8,-1,Sport,5.11d,1,60,37.64722,-83.71305
+"Stabbed in the Back","(5) Undertow Wall > The Motherlode > Bald Rock Recreational Preserve (BRRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107359867/stabbed-in-the-back,2.0,-1,Trad,5.10a,1,,37.64631,-83.71195
+Snapper,"(5) Undertow Wall > The Motherlode > Bald Rock Recreational Preserve (BRRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106575787/snapper,3.1,-1,Sport,5.11a,1,60,37.64631,-83.71195
+SKWBA,"(5) Undertow Wall > The Motherlode > Bald Rock Recreational Preserve (BRRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106928753/skwba,1.6,-1,Sport,5.11d,1,65,37.64631,-83.71195
+Stella,"(5) Undertow Wall > The Motherlode > Bald Rock Recreational Preserve (BRRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106895836/stella,2.0,-1,Sport,5.11d,1,50,37.64631,-83.71195
+Strongyloides,"Chocolate Factory > Bald Rock Recreational Preserve (BRRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107667783/strongyloides,3.0,-1,Trad,5.10a,1,80,37.64919,-83.71343
+EGBG,"Chocolate Factory > Bald Rock Recreational Preserve (BRRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/108766319/egbg,3.5,-1,Sport,5.10a,1,90,37.64919,-83.71343
+"Throbbing Emotions","Chocolate Factory > Bald Rock Recreational Preserve (BRRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/108064675/throbbing-emotions,2.5,-1,Sport,5.10a,1,55,37.64919,-83.71343
+Wonkaholic,"Chocolate Factory > Bald Rock Recreational Preserve (BRRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107379163/wonkaholic,2.6,-1,Sport,5.10a,1,50,37.64919,-83.71343
+Oompa,"Chocolate Factory > Bald Rock Recreational Preserve (BRRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106782060/oompa,3.0,-1,Sport,5.10a/b,1,60,37.64919,-83.71343
+"Three Stooges","Chocolate Factory > Bald Rock Recreational Preserve (BRRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/114290724/three-stooges,1.4,-1,Sport,5.10b,1,90,37.64919,-83.71343
+"The Juggernaut","Chocolate Factory > Bald Rock Recreational Preserve (BRRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/109770822/the-juggernaut,2.6,-1,Sport,5.10b,1,65,37.64919,-83.71343
+"Breakin the Law","Chocolate Factory > Bald Rock Recreational Preserve (BRRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/111855528/breakin-the-law,2.5,-1,Sport,5.10b,1,50,37.64919,-83.71343
+"Robotic Thumb","Chocolate Factory > Bald Rock Recreational Preserve (BRRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107892930/robotic-thumb,3.3,-1,Sport,5.10b,1,60,37.64919,-83.71343
+"End of Innocence","Chocolate Factory > Bald Rock Recreational Preserve (BRRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/114154467/end-of-innocence,1.0,-1,Trad,5.10b,1,,37.64919,-83.71343
+"Snarf Victory","Chocolate Factory > Bald Rock Recreational Preserve (BRRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/109480386/snarf-victory,1.9,-1,Sport,5.10c,1,60,37.64919,-83.71343
+Loompa,"Chocolate Factory > Bald Rock Recreational Preserve (BRRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106927842/loompa,3.5,-1,Sport,5.10c,1,60,37.64919,-83.71343
+"Mr. P.","Chocolate Factory > Bald Rock Recreational Preserve (BRRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107921969/mr-p,1.9,-1,Sport,5.10+,1,60,37.64919,-83.71343
+Unknown,"Chocolate Factory > Bald Rock Recreational Preserve (BRRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/113709113/unknown,2.5,-1,Sport,5.10+,1,80,37.64919,-83.71343
+Theobroma,"Chocolate Factory > Bald Rock Recreational Preserve (BRRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/109770874/theobroma,3.1,-1,Sport,5.10d,1,75,37.64919,-83.71343
+"The Andy Man Can","Chocolate Factory > Bald Rock Recreational Preserve (BRRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106229634/the-andy-man-can,2.8,-1,Trad,5.10d,1,65,37.64919,-83.71343
+"Babinski sign","Chocolate Factory > Bald Rock Recreational Preserve (BRRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107892923/babinski-sign,2.7,-1,Sport,5.10d,1,60,37.64919,-83.71343
+"The Glass Elevator","Chocolate Factory > Bald Rock Recreational Preserve (BRRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106927822/the-glass-elevator,3.0,-1,Sport,5.10d,1,60,37.64919,-83.71343
+"Team Tough on Tour","Chocolate Factory > Bald Rock Recreational Preserve (BRRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/108429570/team-tough-on-tour,1.8,-1,Sport,5.11a,1,65,37.64919,-83.71343
+"For Your Health","Chocolate Factory > Bald Rock Recreational Preserve (BRRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/108206728/for-your-health,1.9,-1,Sport,5.11a,1,90,37.64919,-83.71343
+"Willy Wonka","Chocolate Factory > Bald Rock Recreational Preserve (BRRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/108749213/willy-wonka,2.7,-1,Sport,5.11a,1,60,37.64919,-83.71343
+Squirrelworker,"Chocolate Factory > Bald Rock Recreational Preserve (BRRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/111145636/squirrelworker,2.7,-1,Sport,5.11a,1,70,37.64919,-83.71343
+"One Side Makes You Taller","Chocolate Factory > Bald Rock Recreational Preserve (BRRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107379134/one-side-makes-you-taller,2.6,-1,Sport,5.11a,1,55,37.64919,-83.71343
+Toxicodendron,"Chocolate Factory > Bald Rock Recreational Preserve (BRRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/109695855/toxicodendron,2.8,-1,Sport,5.11b,1,70,37.64919,-83.71343
+"Hip to the Jive","Chocolate Factory > Bald Rock Recreational Preserve (BRRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107379148/hip-to-the-jive,3.3,-1,Sport,5.11b,1,65,37.64919,-83.71343
+"The Giant Peach","Chocolate Factory > Bald Rock Recreational Preserve (BRRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/116561906/the-giant-peach,3.0,-1,Sport,5.11b,1,75,37.64919,-83.71343
+"Sunday Night Cockfights","Chocolate Factory > Bald Rock Recreational Preserve (BRRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/111378943/sunday-night-cockfights,2.4,-1,Sport,5.11b,1,55,37.64919,-83.71343
+"Through the Looking Glass","Chocolate Factory > Bald Rock Recreational Preserve (BRRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/108640459/through-the-looking-glass,2.7,-1,Trad,5.11,1,60,37.64919,-83.71343
+Enkidu,"Chocolate Factory > Bald Rock Recreational Preserve (BRRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/107892916/enkidu,3.5,-1,Sport,5.11c,1,60,37.64919,-83.71343
+"Climactic Crush","Chocolate Factory > Bald Rock Recreational Preserve (BRRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/109695218/climactic-crush,2.7,-1,Sport,5.11c,1,80,37.64919,-83.71343
+Stalker,"Chocolate Factory > Bald Rock Recreational Preserve (BRRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/116561166/stalker,2.0,-1,Sport,5.11d,1,55,37.64919,-83.71343
+Grumpalump,"Chocolate Factory > Bald Rock Recreational Preserve (BRRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/108341815/grumpalump,2.7,-1,Sport,5.11d,1,50,37.64919,-83.71343
+Wobbler,"Chocolate Factory > Bald Rock Recreational Preserve (BRRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/109472352/wobbler,2.9,-1,Sport,5.11d,1,55,37.64919,-83.71343
+"Scarlet Scorchdropper","Chocolate Factory > Bald Rock Recreational Preserve (BRRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/111756736/scarlet-scorchdropper,3.5,-1,Sport,5.11d,1,60,37.64919,-83.71343
+Snozzberries,"Chocolate Factory > Bald Rock Recreational Preserve (BRRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/108411358/snozzberries,3.7,-1,Sport,5.11d,1,80,37.64919,-83.71343
+Unbridled,"The Unlode > Bald Rock Recreational Preserve (BRRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106927891/unbridled,2.4,-1,Sport,5.10c,1,50,37.64334,-83.70926
+Unworthy,"The Unlode > Bald Rock Recreational Preserve (BRRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106927926/unworthy,2.2,-1,Sport,5.11a,1,43,37.64334,-83.70926
+Undesirable,"The Unlode > Bald Rock Recreational Preserve (BRRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/106927939/undesirable,2.0,-1,Sport,5.11c,1,45,37.64334,-83.70926
+"C Quest R","The Bear's Den > Bald Rock Recreational Preserve (BRRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/110330437/c-quest-r,2.0,-1,Sport,5.10b,1,60,37.64584,-83.71181
+"Chantal's Starfish","The Bear's Den > Bald Rock Recreational Preserve (BRRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/115561939/chantals-starfish,2.3,-1,Sport,5.10b,1,60,37.64584,-83.71181
+"Golden Snow Cone","The Bear's Den > Bald Rock Recreational Preserve (BRRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/109469913/golden-snow-cone,2.9,-1,Sport,5.10c,1,55,37.64584,-83.71181
+"Pooh and Piglet Too","The Bear's Den > Bald Rock Recreational Preserve (BRRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/116533078/pooh-and-piglet-too,1.0,-1,Sport,5.10d,1,50,37.64584,-83.71181
+"Off The Couch","The Bear's Den > Bald Rock Recreational Preserve (BRRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/111304044/off-the-couch,2.0,-1,Sport,5.10d,1,55,37.64584,-83.71181
+"Low Hanging Fruit","The Bear's Den > Bald Rock Recreational Preserve (BRRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/110270679/low-hanging-fruit,2.3,-1,Sport,5.10d,1,60,37.64584,-83.71181
+"Clay City Exit","The Bear's Den > Bald Rock Recreational Preserve (BRRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/110270655/clay-city-exit,2.8,-1,Sport,5.11a,1,65,37.64584,-83.71181
+Pinkalicious,"The Bear's Den > Bald Rock Recreational Preserve (BRRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/111292167/pinkalicious,3.2,-1,Sport,5.11b,1,50,37.64584,-83.71181
+Mooch,"The Bear's Den > Bald Rock Recreational Preserve (BRRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/110330421/mooch,2.3,-1,Sport,5.11b,1,80,37.64584,-83.71181
+Psychopomp,"The Bear's Den > Bald Rock Recreational Preserve (BRRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/111251858/psychopomp,2.1,-1,Sport,5.11b,1,60,37.64584,-83.71181
+"Sam's Boy Toy","The Bear's Den > Bald Rock Recreational Preserve (BRRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/116533055/sams-boy-toy,2.0,-1,Sport,5.11c,1,70,37.64584,-83.71181
+Squatter,"The Bear's Den > Bald Rock Recreational Preserve (BRRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/111790387/squatter,2.7,-1,Sport,5.11d,1,80,37.64584,-83.71181
+"Shadow Enhancement","The Bear's Den > Bald Rock Recreational Preserve (BRRP) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/110261825/shadow-enhancement,2.8,-1,Sport,5.11d,1,60,37.64584,-83.71181
+"Vaya Con Todos","Short Bus Crag > White Pine Trail > Cathedral Domain Climbing Area (CDCA) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/116637712/vaya-con-todos,2.0,-1,Sport,5.10d,1,40,37.65856,-83.79405
+"Holly Berry","Pumpkin Patch > Cathedral Domain Climbing Area (CDCA) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/116381929/holly-berry,2.7,-1,Sport,5.10a/b,1,40,37.65852,-83.79409
+Elevado,"Pumpkin Patch > Cathedral Domain Climbing Area (CDCA) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/116386291/elevado,3.0,-1,Sport,5.10d,1,35,37.65852,-83.79409
+"P Funk","Pumpkin Patch > Cathedral Domain Climbing Area (CDCA) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/116382313/p-funk,3.0,-1,Sport,5.11b,1,50,37.65852,-83.79409
+"Kracker Jack","Pumpkin Patch > Cathedral Domain Climbing Area (CDCA) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/116382357/kracker-jack,3.0,-1,Sport,5.11b/c,1,50,37.65852,-83.79409
+Skwashed,"Pumpkin Patch > Cathedral Domain Climbing Area (CDCA) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/116382227/skwashed,3.0,-1,Sport,5.11c,1,50,37.65852,-83.79409
+"Holy Holly","Pumpkin Patch > Cathedral Domain Climbing Area (CDCA) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/116381878/holy-holly,3.0,-1,Sport,5.11+,1,45,37.65852,-83.79409
+"Hand Over Fist","Pumpkin Patch > Cathedral Domain Climbing Area (CDCA) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/116381905/hand-over-fist,3.0,-1,Sport,5.11+,1,40,37.65852,-83.79409
+"The Birthing","Patterson > Inner Loop Trail > Cathedral Domain Climbing Area (CDCA) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/114446365/the-birthing,3.0,-1,Sport,5.10a,1,60,37.65585,-83.79332
+"Rocky Road","Patterson > Inner Loop Trail > Cathedral Domain Climbing Area (CDCA) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/114446375/rocky-road,4.0,-1,Sport,5.10a/b,1,60,37.65585,-83.79332
+"The Humbling","Patterson > Inner Loop Trail > Cathedral Domain Climbing Area (CDCA) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/114450355/the-humbling,3.0,-1,Sport,5.11a,1,55,37.65585,-83.79332
+"I Walk the Line","Patterson > Inner Loop Trail > Cathedral Domain Climbing Area (CDCA) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/113751892/i-walk-the-line,3.0,-1,Sport,5.11d,1,50,37.65585,-83.79332
+"2 Pump Chump","East Coast Crag > Cathedral Domain Climbing Area (CDCA) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/114211996/2-pump-chump,3.0,-1,Sport,5.10a,1,40,37.65543,-83.78719
+"Never a Duhl Moment","East Coast Crag > Cathedral Domain Climbing Area (CDCA) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/114212084/never-a-duhl-moment,2.0,-1,Sport,5.10a,1,40,37.65543,-83.78719
+"Thumb Meat","East Coast Crag > Cathedral Domain Climbing Area (CDCA) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/116550630/thumb-meat,2.0,-1,Sport,5.10,1,40,37.65543,-83.78719
+Crucifix,"East Coast Crag > Cathedral Domain Climbing Area (CDCA) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/114212159/crucifix,-1.0,-1,Sport,5.10b/c,1,40,37.65543,-83.78719
+"Pretty in Pink","Knowhere Wall > Cathedral Domain Climbing Area (CDCA) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/116495073/pretty-in-pink,2.0,-1,Sport,5.11a,1,40,37.65718,-83.79648
+"Giving Tree","Knowhere Wall > Cathedral Domain Climbing Area (CDCA) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/114311623/giving-tree,2.0,-1,Sport,5.11b/c,1,40,37.65718,-83.79648
+"In Dog Years","K9 Crag > Cathedral Domain Climbing Area (CDCA) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/114446550/in-dog-years,3.3,-1,Sport,5.10a,1,50,37.65718,-83.79648
+Adam,"Eden (Far Right End) > Buzzards Roost > Cathedral Domain Climbing Area (CDCA) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/114450399/adam,2.0,-1,Sport,5.10a,1,40,37.65406,-83.7941
+Eve,"Eden (Far Right End) > Buzzards Roost > Cathedral Domain Climbing Area (CDCA) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/114450426/eve,4.0,-1,Sport,5.10b,1,50,37.65406,-83.7941
+"A Shadow in the Wind","Wind Tunnel > Buzzards Roost > Cathedral Domain Climbing Area (CDCA) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/115847052/a-shadow-in-the-wind,3.0,-1,Sport,5.10+,1,50,37.65594,-83.7911
+"Whistling Dixie","Apollo Wall > Cathedral Domain Climbing Area (CDCA) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/116492461/whistling-dixie,2.0,-1,Sport,5.10b,1,45,37.66077,-83.79047
+"Fear the Sphere","Apollo Wall > Cathedral Domain Climbing Area (CDCA) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/116561194/fear-the-sphere,2.0,-1,Sport,5.11a,1,40,37.66077,-83.79047
+Blender,"Apollo Wall > Cathedral Domain Climbing Area (CDCA) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/116386334/blender,2.0,-1,Sport,5.11b,1,40,37.66077,-83.79047
+Blister,"Apollo Wall > Cathedral Domain Climbing Area (CDCA) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/116491976/blister,3.0,-1,Sport,5.11b,1,45,37.66077,-83.79047
+"Straight Jacket","Apollo Wall > Cathedral Domain Climbing Area (CDCA) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/116492163/straight-jacket,3.0,-1,Sport,5.11c,1,50,37.66077,-83.79047
+"Pins and Needles","Apollo Wall > Cathedral Domain Climbing Area (CDCA) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/116491897/pins-and-needles,2.0,-1,Sport,5.11c/d,1,45,37.66077,-83.79047
+"Piano Man","Apollo Wall > Cathedral Domain Climbing Area (CDCA) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/116492431/piano-man,3.0,-1,Sport,5.11c/d,1,45,37.66077,-83.79047
+"2nd Wind","BackStreet > Cathedral Domain Climbing Area (CDCA) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/116515874/2nd-wind,2.0,-1,Sport,5.10b/c,1,40,37.65522,-83.78679
+"Mexican Standoff","BackStreet > Cathedral Domain Climbing Area (CDCA) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/116546079/mexican-standoff,3.0,-1,Sport,5.11c,1,50,37.65522,-83.78679
+"Slow Rider","The Port > Cathedral Domain Climbing Area (CDCA) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/116550839/slow-rider,2.0,-1,Sport,5.10a,1,45,37.65622,-83.79092
+"Show Boat","The Port > Cathedral Domain Climbing Area (CDCA) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/116550969/show-boat,2.0,-1,Sport,5.11b,1,45,37.65622,-83.79092
+Chubs,"The Port > Cathedral Domain Climbing Area (CDCA) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/116550699/chubs,2.0,-1,Sport,5.11c,1,30,37.65622,-83.79092
+Waterboarding,"The Port > Cathedral Domain Climbing Area (CDCA) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/116562454/waterboarding,4.0,-1,Sport,5.11c/d,1,60,37.65622,-83.79092
+"Fog Horn","Light House Crag > Cathedral Domain Climbing Area (CDCA) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/116551415/fog-horn,2.0,-1,Sport,5.10d,1,35,37.65724,-83.7903
+"On the Rocks","Light House Crag > Cathedral Domain Climbing Area (CDCA) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/116551259/on-the-rocks,3.0,-1,Sport,5.11b,1,60,37.65724,-83.7903
+"Picker's Paradise","Light House Crag > Cathedral Domain Climbing Area (CDCA) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/116551276/pickers-paradise,2.0,-1,Sport,5.11c,1,45,37.65724,-83.7903
+"Bottom of the Bottle","Light House Crag > Cathedral Domain Climbing Area (CDCA) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/116551378/bottom-of-the-bottle,2.0,-1,Sport,5.11c/d,1,40,37.65724,-83.7903
+"A Shadow in the Wind","Wind Tunnel > Cathedral Domain Climbing Area (CDCA) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/116551345/a-shadow-in-the-wind,2.0,-1,Sport,5.10a,1,40,37.65596,-83.79078
+ReCurve,"Wind Tunnel > Cathedral Domain Climbing Area (CDCA) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/116551359/recurve,2.0,-1,Sport,5.10a,1,40,37.65596,-83.79078
+"Ground Zero","Wind Tunnel > Cathedral Domain Climbing Area (CDCA) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/116551332/ground-zero,2.0,-1,Sport,5.10d,1,35,37.65596,-83.79078
+"Raising Cane","Wind Tunnel > Cathedral Domain Climbing Area (CDCA) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/116551322/raising-cane,2.0,-1,Sport,5.11b,1,30,37.65596,-83.79078
+"Have Mercy","Hades > Cathedral Domain Climbing Area (CDCA) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/116579149/have-mercy,2.0,-1,Sport,5.10b,1,25,37.65787,-83.79038
+"Maine Line","Hades > Cathedral Domain Climbing Area (CDCA) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/116579115/maine-line,2.0,-1,Sport,5.11a,1,30,37.65787,-83.79038
+"Panic Buttons","Hades > Cathedral Domain Climbing Area (CDCA) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/116579132/panic-buttons,2.0,-1,Sport,5.11c,1,30,37.65787,-83.79038
+"All Logged Out","Hades > Cathedral Domain Climbing Area (CDCA) > Red River Gorge > Kentucky",https://www.mountainproject.com/route/116578740/all-logged-out,2.0,-1,Sport,5.11d,1,30,37.65787,-83.79038
